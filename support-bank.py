@@ -33,6 +33,30 @@ def update_accounts(file, accounts):
                     logging.debug('Creating account with balance %s', row['Amount'])
                     accounts.append(Account(row['To'], float(row['Amount'])))
 
+def list_all(accounts):
+    logging.debug('Listing all accounts')
+    for account in accounts:
+        print(f'Name: {account.name}, Balance: £{account.balance:0.2f}')
+
+def list_transactions(transactions, accounts, name):
+    logging.debug('Listing transactions from %s', name)
+    for account in accounts:
+        if name == account.name:
+            with open(transactions, newline='') as csvfile:
+                reader = csv.DictReader(csvfile)
+                for row in reader:
+                    if row['From'] == account.name:
+                        logging.debug('Transaction -%s', row['Amount'])
+                        print(
+                            f'Date: {row["Date"]}, To: {row["To"]}, Amount: £-{float(row["Amount"]):0.2f}, {row["Narrative"]}')
+                    elif row['To'] == account.name:
+                        logging.debug('Transaction %s', row['Amount'])
+                        print(
+                            f'Date: {row["Date"]}, From: {row["From"]}, Amount: £{float(row["Amount"]):0.2f}, {row["Narrative"]}')
+            break
+    else:
+        print('No account by that name.')
+
 def main():
     logging.basicConfig(filename='SupportBank.log', filemode='w', level=logging.DEBUG)
 
@@ -47,27 +71,11 @@ def main():
 
         # List all account balances
         if command == 'List All':
-            logging.debug('Listing all accounts')
-            for account in accounts:
-                print(f'Name: {account.name}, Balance: £{account.balance:0.2f}')
+            list_all(accounts)
 
         # List transactions that involve a specific account
         elif command.startswith('List ') and len(command) >= 6:
-            logging.debug('Listing transactions from %s', command[5:])
-            for account in accounts:
-                if command[5:] == account.name:
-                    with open(transactions, newline='') as csvfile:
-                        reader = csv.DictReader(csvfile)
-                        for row in reader:
-                            if row['From'] == account.name:
-                                logging.debug('Amount is %s', row['Amount'] )
-                                print(f'Date: {row["Date"]}, To: {row["To"]}, Amount: £-{float(row["Amount"]):0.2f}, {row["Narrative"]}')
-                            elif row['To'] == account.name:
-                                logging.debug('Amount is %s', row['Amount'])
-                                print(f'Date: {row["Date"]}, From: {row["From"]}, Amount: £{float(row["Amount"]):0.2f}, {row["Narrative"]}')
-                    break
-            else:
-                print('No account by that name.')
+            list_transactions(transactions, accounts, command[5:])
 
         elif command == 'Exit':
             logging.debug('Exiting...')

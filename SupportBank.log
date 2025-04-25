@@ -443,4 +443,31 @@ DEBUG:root:Taking 1.44 from balance
 DEBUG:root:New transaction at 29/12/2014 from Ben B to Sam N
 DEBUG:root:Taking 5.26 from balance
 DEBUG:root:Adding 5.26 to balance
-DEBUG:root:Listing all accounts
+DEBUG:root:Listing transactions from Todd
+DEBUG:root:Transaction -6.81
+DEBUG:root:Transaction -6.87
+DEBUG:root:Transaction -5.62
+DEBUG:root:Transaction -7.1
+DEBUG:root:Transaction -9.39
+DEBUG:root:Transaction -1.62
+DEBUG:root:Transaction -5.01
+DEBUG:root:Transaction -10.85
+DEBUG:root:Transaction -3.55
+DEBUG:root:Transaction -3.72
+DEBUG:root:Transaction -1.46
+DEBUG:root:Transaction 10.63
+DEBUG:root:Transaction 9.04
+DEBUG:root:Transaction 3.81
+DEBUG:root:Transaction 7.01
+DEBUG:root:Transaction -6.3
+DEBUG:root:Transaction 9.81
+DEBUG:root:Transaction 8.25
+DEBUG:root:Transaction 1.8
+DEBUG:root:Transaction -3.93
+DEBUG:root:Transaction 11.28
+DEBUG:root:Transaction 8.42
+DEBUG:root:Transaction 1.42
+DEBUG:root:Transaction -2.24
+DEBUG:root:Transaction -7.17
+DEBUG:root:Transaction -1.86
+DEBUG:root:Exiting...
