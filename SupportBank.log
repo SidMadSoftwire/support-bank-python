@@ -8,3705 +8,439 @@ DEBUG:root:Creating account with balance 4.37
 DEBUG:root:New transaction at 08/01/2014 from Laura B to Stephen S
 DEBUG:root:Adding 5.09 to balance
 DEBUG:root:Creating account with balance -5.09
-DEBUG:root:Creating account with balance 5.09
 DEBUG:root:New transaction at 11/01/2014 from Rob S to Ben B
 DEBUG:root:Creating account with balance -7.8
 DEBUG:root:Creating account with balance 7.8
 DEBUG:root:New transaction at 14/01/2014 from Stephen S to Ben B
 DEBUG:root:Taking 7.36 from balance
-DEBUG:root:Taking 7.36 from balance
 DEBUG:root:Adding 7.36 to balance
-DEBUG:root:Creating account with balance -7.36
 DEBUG:root:New transaction at 15/01/2014 from Sam N to Stephen S
-DEBUG:root:Adding 11.63 to balance
-DEBUG:root:Adding 11.63 to balance
 DEBUG:root:Adding 11.63 to balance
 DEBUG:root:Creating account with balance -11.63
 DEBUG:root:New transaction at 19/01/2014 from Stephen S to Gergana I
 DEBUG:root:Taking 5.88 from balance
-DEBUG:root:Taking 5.88 from balance
-DEBUG:root:Taking 5.88 from balance
-DEBUG:root:Creating account with balance -5.88
 DEBUG:root:Creating account with balance 5.88
 DEBUG:root:New transaction at 20/01/2014 from Sam N to Stephen S
 DEBUG:root:Adding 8.2 to balance
-DEBUG:root:Adding 8.2 to balance
-DEBUG:root:Adding 8.2 to balance
 DEBUG:root:Taking 8.2 from balance
-DEBUG:root:Adding 8.2 to balance
-DEBUG:root:Creating account with balance -8.2
-DEBUG:root:Creating account with balance 8.2
 DEBUG:root:New transaction at 24/01/2014 from Laura B to Sam N
 DEBUG:root:Taking 11.68 from balance
 DEBUG:root:Adding 11.68 to balance
-DEBUG:root:Adding 11.68 to balance
-DEBUG:root:Creating account with balance -11.68
-DEBUG:root:Creating account with balance 11.68
 DEBUG:root:New transaction at 28/01/2014 from Todd to Ben B
 DEBUG:root:Adding 6.81 to balance
 DEBUG:root:Creating account with balance -6.81
-DEBUG:root:Creating account with balance 6.81
 DEBUG:root:New transaction at 31/01/2014 from Sam N to Gergana I
 DEBUG:root:Taking 6.29 from balance
 DEBUG:root:Adding 6.29 to balance
-DEBUG:root:Taking 6.29 from balance
-DEBUG:root:Taking 6.29 from balance
-DEBUG:root:Creating account with balance -6.29
-DEBUG:root:Creating account with balance 6.29
 DEBUG:root:New transaction at 01/02/2014 from Todd to Ben B
 DEBUG:root:Adding 6.87 to balance
 DEBUG:root:Taking 6.87 from balance
-DEBUG:root:Adding 6.87 to balance
-DEBUG:root:Creating account with balance -6.87
-DEBUG:root:Creating account with balance 6.87
 DEBUG:root:New transaction at 04/02/2014 from Chris W to Ben B
-DEBUG:root:Adding 6.03 to balance
-DEBUG:root:Adding 6.03 to balance
 DEBUG:root:Adding 6.03 to balance
 DEBUG:root:Creating account with balance -6.03
 DEBUG:root:New transaction at 05/02/2014 from Todd to Rob S
 DEBUG:root:Adding 5.62 to balance
 DEBUG:root:Taking 5.62 from balance
-DEBUG:root:Taking 5.62 from balance
-DEBUG:root:Creating account with balance -5.62
-DEBUG:root:Creating account with balance 5.62
 DEBUG:root:New transaction at 07/02/2014 from Jon A to Sam N
 DEBUG:root:Taking 1.65 from balance
 DEBUG:root:Adding 1.65 to balance
-DEBUG:root:Adding 1.65 to balance
-DEBUG:root:Adding 1.65 to balance
-DEBUG:root:Adding 1.65 to balance
-DEBUG:root:Creating account with balance -1.65
-DEBUG:root:Creating account with balance 1.65
 DEBUG:root:New transaction at 10/02/2014 from Dan W to Sam N
-DEBUG:root:Adding 0.93 to balance
-DEBUG:root:Adding 0.93 to balance
-DEBUG:root:Adding 0.93 to balance
-DEBUG:root:Adding 0.93 to balance
 DEBUG:root:Adding 0.93 to balance
 DEBUG:root:Creating account with balance -0.93
 DEBUG:root:New transaction at 14/02/2014 from Laura B to Stephen S
 DEBUG:root:Adding 10.78 to balance
 DEBUG:root:Taking 10.78 from balance
-DEBUG:root:Adding 10.78 to balance
-DEBUG:root:Adding 10.78 to balance
-DEBUG:root:Adding 10.78 to balance
-DEBUG:root:Adding 10.78 to balance
-DEBUG:root:Taking 10.78 from balance
-DEBUG:root:Creating account with balance -10.78
-DEBUG:root:Creating account with balance 10.78
 DEBUG:root:New transaction at 15/02/2014 from Stephen S to Gergana I
 DEBUG:root:Taking 6.91 from balance
-DEBUG:root:Taking 6.91 from balance
-DEBUG:root:Taking 6.91 from balance
-DEBUG:root:Taking 6.91 from balance
 DEBUG:root:Adding 6.91 to balance
-DEBUG:root:Taking 6.91 from balance
-DEBUG:root:Adding 6.91 to balance
-DEBUG:root:Taking 6.91 from balance
-DEBUG:root:Creating account with balance 6.91
 DEBUG:root:New transaction at 18/02/2014 from Sarah T to Sam N
 DEBUG:root:Taking 1.6 from balance
 DEBUG:root:Adding 1.6 to balance
-DEBUG:root:Adding 1.6 to balance
-DEBUG:root:Adding 1.6 to balance
-DEBUG:root:Adding 1.6 to balance
-DEBUG:root:Adding 1.6 to balance
-DEBUG:root:Creating account with balance -1.6
-DEBUG:root:Creating account with balance 1.6
 DEBUG:root:New transaction at 22/02/2014 from Tim L to Sam N
 DEBUG:root:Taking 5.2 from balance
 DEBUG:root:Adding 5.2 to balance
-DEBUG:root:Adding 5.2 to balance
-DEBUG:root:Adding 5.2 to balance
-DEBUG:root:Adding 5.2 to balance
-DEBUG:root:Adding 5.2 to balance
-DEBUG:root:Adding 5.2 to balance
-DEBUG:root:Creating account with balance -5.2
 DEBUG:root:New transaction at 25/02/2014 from Todd to Rob S
 DEBUG:root:Adding 7.1 to balance
 DEBUG:root:Taking 7.1 from balance
-DEBUG:root:Taking 7.1 from balance
-DEBUG:root:Taking 7.1 from balance
-DEBUG:root:Adding 7.1 to balance
-DEBUG:root:Creating account with balance -7.1
-DEBUG:root:Creating account with balance 7.1
 DEBUG:root:New transaction at 27/02/2014 from Ben B to Rob S
 DEBUG:root:Adding 8.41 to balance
 DEBUG:root:Taking 8.41 from balance
-DEBUG:root:Taking 8.41 from balance
-DEBUG:root:Taking 8.41 from balance
-DEBUG:root:Adding 8.41 to balance
-DEBUG:root:Adding 8.41 to balance
-DEBUG:root:Creating account with balance -8.41
 DEBUG:root:New transaction at 01/03/2014 from Stephen S to Jon A
 DEBUG:root:Adding 8.75 to balance
 DEBUG:root:Taking 8.75 from balance
-DEBUG:root:Taking 8.75 from balance
-DEBUG:root:Taking 8.75 from balance
-DEBUG:root:Taking 8.75 from balance
-DEBUG:root:Taking 8.75 from balance
-DEBUG:root:Adding 8.75 to balance
-DEBUG:root:Taking 8.75 from balance
-DEBUG:root:Creating account with balance -8.75
-DEBUG:root:Creating account with balance 8.75
 DEBUG:root:New transaction at 03/03/2014 from Sam N to Gergana I
 DEBUG:root:Taking 8.76 from balance
 DEBUG:root:Adding 8.76 to balance
-DEBUG:root:Taking 8.76 from balance
-DEBUG:root:Taking 8.76 from balance
-DEBUG:root:Taking 8.76 from balance
-DEBUG:root:Adding 8.76 to balance
-DEBUG:root:Taking 8.76 from balance
-DEBUG:root:Adding 8.76 to balance
-DEBUG:root:Taking 8.76 from balance
-DEBUG:root:Creating account with balance -8.76
-DEBUG:root:Creating account with balance 8.76
 DEBUG:root:New transaction at 07/03/2014 from Todd to Laura B
 DEBUG:root:Adding 9.39 to balance
-DEBUG:root:Adding 9.39 to balance
 DEBUG:root:Taking 9.39 from balance
-DEBUG:root:Taking 9.39 from balance
-DEBUG:root:Taking 9.39 from balance
-DEBUG:root:Adding 9.39 to balance
-DEBUG:root:Taking 9.39 from balance
-DEBUG:root:Creating account with balance -9.39
-DEBUG:root:Creating account with balance 9.39
 DEBUG:root:New transaction at 10/03/2014 from Todd to Gergana I
 DEBUG:root:Adding 1.62 to balance
 DEBUG:root:Taking 1.62 from balance
-DEBUG:root:Adding 1.62 to balance
-DEBUG:root:Taking 1.62 from balance
-DEBUG:root:Taking 1.62 from balance
-DEBUG:root:Adding 1.62 to balance
-DEBUG:root:Taking 1.62 from balance
-DEBUG:root:Adding 1.62 to balance
-DEBUG:root:Taking 1.62 from balance
-DEBUG:root:Creating account with balance -1.62
-DEBUG:root:Creating account with balance 1.62
 DEBUG:root:New transaction at 14/03/2014 from Sarah T to Ben B
 DEBUG:root:Taking 2.1 from balance
 DEBUG:root:Adding 2.1 to balance
-DEBUG:root:Adding 2.1 to balance
-DEBUG:root:Adding 2.1 to balance
-DEBUG:root:Taking 2.1 from balance
-DEBUG:root:Adding 2.1 to balance
-DEBUG:root:Creating account with balance -2.1
-DEBUG:root:Creating account with balance 2.1
 DEBUG:root:New transaction at 17/03/2014 from Sarah T to Stephen S
 DEBUG:root:Taking 0.66 from balance
 DEBUG:root:Adding 0.66 to balance
-DEBUG:root:Adding 0.66 to balance
-DEBUG:root:Adding 0.66 to balance
-DEBUG:root:Adding 0.66 to balance
-DEBUG:root:Adding 0.66 to balance
-DEBUG:root:Adding 0.66 to balance
-DEBUG:root:Taking 0.66 from balance
-DEBUG:root:Adding 0.66 to balance
-DEBUG:root:Taking 0.66 from balance
-DEBUG:root:Creating account with balance -0.66
-DEBUG:root:Creating account with balance 0.66
 DEBUG:root:New transaction at 20/03/2014 from Tim L to Sarah T
 DEBUG:root:Adding 2.28 to balance
 DEBUG:root:Taking 2.28 from balance
-DEBUG:root:Adding 2.28 to balance
-DEBUG:root:Taking 2.28 from balance
-DEBUG:root:Adding 2.28 to balance
-DEBUG:root:Adding 2.28 to balance
-DEBUG:root:Creating account with balance -2.28
-DEBUG:root:Creating account with balance 2.28
 DEBUG:root:New transaction at 22/03/2014 from Rob S to Tim L
 DEBUG:root:Adding 1.95 to balance
 DEBUG:root:Taking 1.95 from balance
-DEBUG:root:Taking 1.95 from balance
-DEBUG:root:Adding 1.95 to balance
-DEBUG:root:Taking 1.95 from balance
-DEBUG:root:Adding 1.95 to balance
-DEBUG:root:Creating account with balance -1.95
-DEBUG:root:Creating account with balance 1.95
 DEBUG:root:New transaction at 23/03/2014 from Jon A to Sam N
 DEBUG:root:Taking 8.49 from balance
 DEBUG:root:Adding 8.49 to balance
-DEBUG:root:Adding 8.49 to balance
-DEBUG:root:Adding 8.49 to balance
-DEBUG:root:Adding 8.49 to balance
-DEBUG:root:Taking 8.49 from balance
-DEBUG:root:Adding 8.49 to balance
-DEBUG:root:Adding 8.49 to balance
-DEBUG:root:Taking 8.49 from balance
-DEBUG:root:Adding 8.49 to balance
-DEBUG:root:Creating account with balance -8.49
-DEBUG:root:Creating account with balance 8.49
 DEBUG:root:New transaction at 27/03/2014 from Ben B to Sam N
 DEBUG:root:Taking 10.76 from balance
 DEBUG:root:Adding 10.76 to balance
-DEBUG:root:Adding 10.76 to balance
-DEBUG:root:Adding 10.76 to balance
-DEBUG:root:Taking 10.76 from balance
-DEBUG:root:Adding 10.76 to balance
-DEBUG:root:Taking 10.76 from balance
-DEBUG:root:Adding 10.76 to balance
-DEBUG:root:Adding 10.76 to balance
-DEBUG:root:Taking 10.76 from balance
-DEBUG:root:Adding 10.76 to balance
-DEBUG:root:Taking 10.76 from balance
-DEBUG:root:Adding 10.76 to balance
-DEBUG:root:Creating account with balance -10.76
 DEBUG:root:New transaction at 29/03/2014 from Todd to Sarah T
 DEBUG:root:Adding 5.01 to balance
 DEBUG:root:Taking 5.01 from balance
-DEBUG:root:Taking 5.01 from balance
-DEBUG:root:Taking 5.01 from balance
-DEBUG:root:Adding 5.01 to balance
-DEBUG:root:Taking 5.01 from balance
-DEBUG:root:Taking 5.01 from balance
-DEBUG:root:Taking 5.01 from balance
-DEBUG:root:Adding 5.01 to balance
-DEBUG:root:Adding 5.01 to balance
-DEBUG:root:Adding 5.01 to balance
-DEBUG:root:Creating account with balance -5.01
-DEBUG:root:Creating account with balance 5.01
 DEBUG:root:New transaction at 30/03/2014 from Dan W to Laura B
 DEBUG:root:Adding 4.77 to balance
-DEBUG:root:Adding 4.77 to balance
 DEBUG:root:Taking 4.77 from balance
-DEBUG:root:Adding 4.77 to balance
-DEBUG:root:Adding 4.77 to balance
-DEBUG:root:Creating account with balance -4.77
-DEBUG:root:Creating account with balance 4.77
 DEBUG:root:New transaction at 01/04/2014 from Sam N to Laura B
 DEBUG:root:Adding 2.87 to balance
 DEBUG:root:Taking 2.87 from balance
-DEBUG:root:Taking 2.87 from balance
-DEBUG:root:Adding 2.87 to balance
-DEBUG:root:Taking 2.87 from balance
-DEBUG:root:Taking 2.87 from balance
-DEBUG:root:Taking 2.87 from balance
-DEBUG:root:Adding 2.87 to balance
-DEBUG:root:Taking 2.87 from balance
-DEBUG:root:Taking 2.87 from balance
-DEBUG:root:Adding 2.87 to balance
-DEBUG:root:Taking 2.87 from balance
-DEBUG:root:Adding 2.87 to balance
-DEBUG:root:Creating account with balance -2.87
 DEBUG:root:New transaction at 04/04/2014 from Todd to Ben B
 DEBUG:root:Adding 10.85 to balance
 DEBUG:root:Taking 10.85 from balance
-DEBUG:root:Adding 10.85 to balance
-DEBUG:root:Taking 10.85 from balance
-DEBUG:root:Adding 10.85 to balance
-DEBUG:root:Taking 10.85 from balance
-DEBUG:root:Taking 10.85 from balance
-DEBUG:root:Adding 10.85 to balance
-DEBUG:root:Taking 10.85 from balance
-DEBUG:root:Taking 10.85 from balance
-DEBUG:root:Adding 10.85 to balance
-DEBUG:root:Adding 10.85 to balance
-DEBUG:root:Taking 10.85 from balance
-DEBUG:root:Creating account with balance -10.85
-DEBUG:root:Creating account with balance 10.85
 DEBUG:root:New transaction at 06/04/2014 from Jon A to Stephen S
 DEBUG:root:Taking 8.91 from balance
 DEBUG:root:Adding 8.91 to balance
-DEBUG:root:Adding 8.91 to balance
-DEBUG:root:Adding 8.91 to balance
-DEBUG:root:Adding 8.91 to balance
-DEBUG:root:Adding 8.91 to balance
-DEBUG:root:Taking 8.91 from balance
-DEBUG:root:Adding 8.91 to balance
-DEBUG:root:Adding 8.91 to balance
-DEBUG:root:Taking 8.91 from balance
-DEBUG:root:Adding 8.91 to balance
-DEBUG:root:Taking 8.91 from balance
-DEBUG:root:Creating account with balance -8.91
-DEBUG:root:Creating account with balance 8.91
 DEBUG:root:New transaction at 08/04/2014 from Stephen S to Sam N
 DEBUG:root:Taking 2.96 from balance
-DEBUG:root:Taking 2.96 from balance
-DEBUG:root:Taking 2.96 from balance
 DEBUG:root:Adding 2.96 to balance
-DEBUG:root:Taking 2.96 from balance
-DEBUG:root:Adding 2.96 to balance
-DEBUG:root:Taking 2.96 from balance
-DEBUG:root:Adding 2.96 to balance
-DEBUG:root:Adding 2.96 to balance
-DEBUG:root:Adding 2.96 to balance
-DEBUG:root:Taking 2.96 from balance
-DEBUG:root:Adding 2.96 to balance
-DEBUG:root:Taking 2.96 from balance
-DEBUG:root:Adding 2.96 to balance
-DEBUG:root:Taking 2.96 from balance
-DEBUG:root:Adding 2.96 to balance
-DEBUG:root:Adding 2.96 to balance
-DEBUG:root:Taking 2.96 from balance
-DEBUG:root:Creating account with balance 2.96
 DEBUG:root:New transaction at 09/04/2014 from Ben B to Rob S
 DEBUG:root:Adding 1.31 to balance
 DEBUG:root:Taking 1.31 from balance
-DEBUG:root:Taking 1.31 from balance
-DEBUG:root:Taking 1.31 from balance
-DEBUG:root:Adding 1.31 to balance
-DEBUG:root:Adding 1.31 to balance
-DEBUG:root:Taking 1.31 from balance
-DEBUG:root:Taking 1.31 from balance
-DEBUG:root:Adding 1.31 to balance
-DEBUG:root:Taking 1.31 from balance
-DEBUG:root:Taking 1.31 from balance
-DEBUG:root:Creating account with balance -1.31
-DEBUG:root:Creating account with balance 1.31
 DEBUG:root:New transaction at 10/04/2014 from Todd to Sarah T
 DEBUG:root:Adding 3.55 to balance
 DEBUG:root:Taking 3.55 from balance
-DEBUG:root:Taking 3.55 from balance
-DEBUG:root:Taking 3.55 from balance
-DEBUG:root:Adding 3.55 to balance
-DEBUG:root:Taking 3.55 from balance
-DEBUG:root:Taking 3.55 from balance
-DEBUG:root:Taking 3.55 from balance
-DEBUG:root:Adding 3.55 to balance
-DEBUG:root:Adding 3.55 to balance
-DEBUG:root:Adding 3.55 to balance
-DEBUG:root:Taking 3.55 from balance
-DEBUG:root:Adding 3.55 to balance
-DEBUG:root:Taking 3.55 from balance
-DEBUG:root:Creating account with balance -3.55
-DEBUG:root:Creating account with balance 3.55
 DEBUG:root:New transaction at 11/04/2014 from Todd to Laura B
 DEBUG:root:Adding 3.72 to balance
-DEBUG:root:Adding 3.72 to balance
 DEBUG:root:Taking 3.72 from balance
-DEBUG:root:Taking 3.72 from balance
-DEBUG:root:Taking 3.72 from balance
-DEBUG:root:Adding 3.72 to balance
-DEBUG:root:Taking 3.72 from balance
-DEBUG:root:Taking 3.72 from balance
-DEBUG:root:Adding 3.72 to balance
-DEBUG:root:Taking 3.72 from balance
-DEBUG:root:Taking 3.72 from balance
-DEBUG:root:Adding 3.72 to balance
-DEBUG:root:Taking 3.72 from balance
-DEBUG:root:Taking 3.72 from balance
-DEBUG:root:Creating account with balance -3.72
-DEBUG:root:Creating account with balance 3.72
 DEBUG:root:New transaction at 15/04/2014 from Rob S to Sam N
 DEBUG:root:Taking 8.86 from balance
 DEBUG:root:Adding 8.86 to balance
-DEBUG:root:Adding 8.86 to balance
-DEBUG:root:Adding 8.86 to balance
-DEBUG:root:Adding 8.86 to balance
-DEBUG:root:Taking 8.86 from balance
-DEBUG:root:Adding 8.86 to balance
-DEBUG:root:Adding 8.86 to balance
-DEBUG:root:Taking 8.86 from balance
-DEBUG:root:Adding 8.86 to balance
-DEBUG:root:Taking 8.86 from balance
-DEBUG:root:Adding 8.86 to balance
-DEBUG:root:Adding 8.86 to balance
-DEBUG:root:Adding 8.86 to balance
-DEBUG:root:Taking 8.86 from balance
-DEBUG:root:Creating account with balance -8.86
-DEBUG:root:Creating account with balance 8.86
 DEBUG:root:New transaction at 19/04/2014 from Ben B to Gergana I
 DEBUG:root:Taking 7.61 from balance
 DEBUG:root:Adding 7.61 to balance
-DEBUG:root:Taking 7.61 from balance
-DEBUG:root:Adding 7.61 to balance
-DEBUG:root:Taking 7.61 from balance
-DEBUG:root:Adding 7.61 to balance
-DEBUG:root:Taking 7.61 from balance
-DEBUG:root:Adding 7.61 to balance
-DEBUG:root:Adding 7.61 to balance
-DEBUG:root:Taking 7.61 from balance
-DEBUG:root:Taking 7.61 from balance
-DEBUG:root:Taking 7.61 from balance
-DEBUG:root:Taking 7.61 from balance
-DEBUG:root:Creating account with balance -7.61
-DEBUG:root:Creating account with balance 7.61
 DEBUG:root:New transaction at 20/04/2014 from Dan W to Gergana I
 DEBUG:root:Adding 11.92 to balance
-DEBUG:root:Adding 11.92 to balance
 DEBUG:root:Taking 11.92 from balance
-DEBUG:root:Adding 11.92 to balance
-DEBUG:root:Adding 11.92 to balance
-DEBUG:root:Adding 11.92 to balance
-DEBUG:root:Taking 11.92 from balance
-DEBUG:root:Adding 11.92 to balance
-DEBUG:root:Creating account with balance -11.92
 DEBUG:root:New transaction at 23/04/2014 from Stephen S to Rob S
 DEBUG:root:Taking 3.41 from balance
-DEBUG:root:Taking 3.41 from balance
 DEBUG:root:Adding 3.41 to balance
-DEBUG:root:Taking 3.41 from balance
-DEBUG:root:Taking 3.41 from balance
-DEBUG:root:Taking 3.41 from balance
-DEBUG:root:Adding 3.41 to balance
-DEBUG:root:Taking 3.41 from balance
-DEBUG:root:Adding 3.41 to balance
-DEBUG:root:Taking 3.41 from balance
-DEBUG:root:Taking 3.41 from balance
-DEBUG:root:Adding 3.41 to balance
-DEBUG:root:Taking 3.41 from balance
-DEBUG:root:Adding 3.41 to balance
-DEBUG:root:Adding 3.41 to balance
-DEBUG:root:Creating account with balance -3.41
-DEBUG:root:Creating account with balance 3.41
 DEBUG:root:New transaction at 24/04/2014 from Tim L to Dan W
 DEBUG:root:Taking 6.38 from balance
 DEBUG:root:Adding 6.38 to balance
-DEBUG:root:Taking 6.38 from balance
-DEBUG:root:Taking 6.38 from balance
-DEBUG:root:Taking 6.38 from balance
-DEBUG:root:Adding 6.38 to balance
-DEBUG:root:Adding 6.38 to balance
-DEBUG:root:Creating account with balance -6.38
-DEBUG:root:Creating account with balance 6.38
 DEBUG:root:New transaction at 26/04/2014 from Todd to Tim L
 DEBUG:root:Adding 1.46 to balance
 DEBUG:root:Taking 1.46 from balance
-DEBUG:root:Taking 1.46 from balance
-DEBUG:root:Taking 1.46 from balance
-DEBUG:root:Adding 1.46 to balance
-DEBUG:root:Taking 1.46 from balance
-DEBUG:root:Taking 1.46 from balance
-DEBUG:root:Taking 1.46 from balance
-DEBUG:root:Adding 1.46 to balance
-DEBUG:root:Adding 1.46 to balance
-DEBUG:root:Taking 1.46 from balance
-DEBUG:root:Taking 1.46 from balance
-DEBUG:root:Taking 1.46 from balance
-DEBUG:root:Taking 1.46 from balance
-DEBUG:root:Adding 1.46 to balance
-DEBUG:root:Creating account with balance -1.46
-DEBUG:root:Creating account with balance 1.46
 DEBUG:root:New transaction at 30/04/2014 from Laura B to Ben B
 DEBUG:root:Taking 5.77 from balance
 DEBUG:root:Adding 5.77 to balance
-DEBUG:root:Taking 5.77 from balance
-DEBUG:root:Adding 5.77 to balance
-DEBUG:root:Adding 5.77 to balance
-DEBUG:root:Taking 5.77 from balance
-DEBUG:root:Adding 5.77 to balance
-DEBUG:root:Taking 5.77 from balance
-DEBUG:root:Adding 5.77 to balance
-DEBUG:root:Adding 5.77 to balance
-DEBUG:root:Taking 5.77 from balance
-DEBUG:root:Adding 5.77 to balance
-DEBUG:root:Adding 5.77 to balance
-DEBUG:root:Taking 5.77 from balance
-DEBUG:root:Adding 5.77 to balance
-DEBUG:root:Creating account with balance -5.77
-DEBUG:root:Creating account with balance 5.77
 DEBUG:root:New transaction at 03/05/2014 from Jon A to Gergana I
 DEBUG:root:Taking 10.51 from balance
 DEBUG:root:Adding 10.51 to balance
-DEBUG:root:Adding 10.51 to balance
-DEBUG:root:Taking 10.51 from balance
-DEBUG:root:Adding 10.51 to balance
-DEBUG:root:Taking 10.51 from balance
-DEBUG:root:Adding 10.51 to balance
-DEBUG:root:Adding 10.51 to balance
-DEBUG:root:Taking 10.51 from balance
-DEBUG:root:Taking 10.51 from balance
-DEBUG:root:Adding 10.51 to balance
-DEBUG:root:Creating account with balance -10.51
-DEBUG:root:Creating account with balance 10.51
 DEBUG:root:New transaction at 05/05/2014 from Dan W to Sarah T
 DEBUG:root:Adding 5.06 to balance
 DEBUG:root:Taking 5.06 from balance
-DEBUG:root:Adding 5.06 to balance
-DEBUG:root:Adding 5.06 to balance
-DEBUG:root:Adding 5.06 to balance
-DEBUG:root:Adding 5.06 to balance
-DEBUG:root:Adding 5.06 to balance
-DEBUG:root:Taking 5.06 from balance
-DEBUG:root:Adding 5.06 to balance
-DEBUG:root:Taking 5.06 from balance
-DEBUG:root:Taking 5.06 from balance
-DEBUG:root:Creating account with balance -5.06
-DEBUG:root:Creating account with balance 5.06
 DEBUG:root:New transaction at 06/05/2014 from Tim L to Chris W
 DEBUG:root:Taking 7.45 from balance
 DEBUG:root:Adding 7.45 to balance
-DEBUG:root:Taking 7.45 from balance
-DEBUG:root:Taking 7.45 from balance
-DEBUG:root:Taking 7.45 from balance
-DEBUG:root:Taking 7.45 from balance
-DEBUG:root:Taking 7.45 from balance
-DEBUG:root:Creating account with balance -7.45
-DEBUG:root:Creating account with balance 7.45
 DEBUG:root:New transaction at 10/05/2014 from Laura B to Todd
 DEBUG:root:Taking 10.63 from balance
-DEBUG:root:Taking 10.63 from balance
 DEBUG:root:Adding 10.63 to balance
-DEBUG:root:Adding 10.63 to balance
-DEBUG:root:Adding 10.63 to balance
-DEBUG:root:Taking 10.63 from balance
-DEBUG:root:Adding 10.63 to balance
-DEBUG:root:Adding 10.63 to balance
-DEBUG:root:Taking 10.63 from balance
-DEBUG:root:Adding 10.63 to balance
-DEBUG:root:Adding 10.63 to balance
-DEBUG:root:Taking 10.63 from balance
-DEBUG:root:Adding 10.63 to balance
-DEBUG:root:Adding 10.63 to balance
-DEBUG:root:Adding 10.63 to balance
-DEBUG:root:Taking 10.63 from balance
-DEBUG:root:Adding 10.63 to balance
-DEBUG:root:Taking 10.63 from balance
-DEBUG:root:Creating account with balance -10.63
-DEBUG:root:Creating account with balance 10.63
 DEBUG:root:New transaction at 13/05/2014 from Tim L to Ben B
 DEBUG:root:Taking 5.89 from balance
 DEBUG:root:Adding 5.89 to balance
-DEBUG:root:Adding 5.89 to balance
-DEBUG:root:Adding 5.89 to balance
-DEBUG:root:Taking 5.89 from balance
-DEBUG:root:Adding 5.89 to balance
-DEBUG:root:Adding 5.89 to balance
-DEBUG:root:Taking 5.89 from balance
-DEBUG:root:Taking 5.89 from balance
-DEBUG:root:Adding 5.89 to balance
-DEBUG:root:Adding 5.89 to balance
-DEBUG:root:Adding 5.89 to balance
-DEBUG:root:Adding 5.89 to balance
-DEBUG:root:Taking 5.89 from balance
-DEBUG:root:Taking 5.89 from balance
-DEBUG:root:Adding 5.89 to balance
-DEBUG:root:Taking 5.89 from balance
-DEBUG:root:Creating account with balance -5.89
-DEBUG:root:Creating account with balance 5.89
 DEBUG:root:New transaction at 17/05/2014 from Rob S to Sarah T
 DEBUG:root:Adding 3.61 to balance
 DEBUG:root:Taking 3.61 from balance
-DEBUG:root:Taking 3.61 from balance
-DEBUG:root:Adding 3.61 to balance
-DEBUG:root:Taking 3.61 from balance
-DEBUG:root:Adding 3.61 to balance
-DEBUG:root:Adding 3.61 to balance
-DEBUG:root:Adding 3.61 to balance
-DEBUG:root:Taking 3.61 from balance
-DEBUG:root:Adding 3.61 to balance
-DEBUG:root:Taking 3.61 from balance
-DEBUG:root:Adding 3.61 to balance
-DEBUG:root:Taking 3.61 from balance
-DEBUG:root:Taking 3.61 from balance
-DEBUG:root:Adding 3.61 to balance
-DEBUG:root:Creating account with balance -3.61
-DEBUG:root:Creating account with balance 3.61
 DEBUG:root:New transaction at 19/05/2014 from Jon A to Todd
 DEBUG:root:Taking 9.04 from balance
 DEBUG:root:Adding 9.04 to balance
-DEBUG:root:Adding 9.04 to balance
-DEBUG:root:Adding 9.04 to balance
-DEBUG:root:Taking 9.04 from balance
-DEBUG:root:Adding 9.04 to balance
-DEBUG:root:Taking 9.04 from balance
-DEBUG:root:Adding 9.04 to balance
-DEBUG:root:Adding 9.04 to balance
-DEBUG:root:Taking 9.04 from balance
-DEBUG:root:Adding 9.04 to balance
-DEBUG:root:Adding 9.04 to balance
-DEBUG:root:Taking 9.04 from balance
-DEBUG:root:Adding 9.04 to balance
-DEBUG:root:Adding 9.04 to balance
-DEBUG:root:Adding 9.04 to balance
-DEBUG:root:Taking 9.04 from balance
-DEBUG:root:Adding 9.04 to balance
-DEBUG:root:Creating account with balance -9.04
-DEBUG:root:Creating account with balance 9.04
 DEBUG:root:New transaction at 22/05/2014 from Tim L to Todd
 DEBUG:root:Taking 3.81 from balance
 DEBUG:root:Adding 3.81 to balance
-DEBUG:root:Adding 3.81 to balance
-DEBUG:root:Adding 3.81 to balance
-DEBUG:root:Taking 3.81 from balance
-DEBUG:root:Adding 3.81 to balance
-DEBUG:root:Adding 3.81 to balance
-DEBUG:root:Adding 3.81 to balance
-DEBUG:root:Taking 3.81 from balance
-DEBUG:root:Taking 3.81 from balance
-DEBUG:root:Adding 3.81 to balance
-DEBUG:root:Adding 3.81 to balance
-DEBUG:root:Adding 3.81 to balance
-DEBUG:root:Adding 3.81 to balance
-DEBUG:root:Taking 3.81 from balance
-DEBUG:root:Adding 3.81 to balance
-DEBUG:root:Taking 3.81 from balance
-DEBUG:root:Taking 3.81 from balance
-DEBUG:root:Adding 3.81 to balance
-DEBUG:root:Taking 3.81 from balance
-DEBUG:root:Adding 3.81 to balance
-DEBUG:root:Creating account with balance -3.81
 DEBUG:root:New transaction at 24/05/2014 from Sam N to Tim L
 DEBUG:root:Adding 8.8 to balance
 DEBUG:root:Taking 8.8 from balance
-DEBUG:root:Taking 8.8 from balance
-DEBUG:root:Taking 8.8 from balance
-DEBUG:root:Taking 8.8 from balance
-DEBUG:root:Taking 8.8 from balance
-DEBUG:root:Taking 8.8 from balance
-DEBUG:root:Adding 8.8 to balance
-DEBUG:root:Taking 8.8 from balance
-DEBUG:root:Adding 8.8 to balance
-DEBUG:root:Adding 8.8 to balance
-DEBUG:root:Taking 8.8 from balance
-DEBUG:root:Taking 8.8 from balance
-DEBUG:root:Taking 8.8 from balance
-DEBUG:root:Taking 8.8 from balance
-DEBUG:root:Adding 8.8 to balance
-DEBUG:root:Adding 8.8 to balance
-DEBUG:root:Adding 8.8 to balance
-DEBUG:root:Adding 8.8 to balance
-DEBUG:root:Adding 8.8 to balance
-DEBUG:root:Creating account with balance -8.8
 DEBUG:root:New transaction at 26/05/2014 from Ben B to Laura B
 DEBUG:root:Adding 7.36 to balance
 DEBUG:root:Taking 7.36 from balance
-DEBUG:root:Adding 7.36 to balance
-DEBUG:root:Taking 7.36 from balance
-DEBUG:root:Taking 7.36 from balance
-DEBUG:root:Adding 7.36 to balance
-DEBUG:root:Taking 7.36 from balance
-DEBUG:root:Adding 7.36 to balance
-DEBUG:root:Taking 7.36 from balance
-DEBUG:root:Taking 7.36 from balance
-DEBUG:root:Adding 7.36 to balance
-DEBUG:root:Taking 7.36 from balance
-DEBUG:root:Taking 7.36 from balance
-DEBUG:root:Adding 7.36 to balance
-DEBUG:root:Taking 7.36 from balance
-DEBUG:root:Adding 7.36 to balance
-DEBUG:root:Taking 7.36 from balance
-DEBUG:root:Adding 7.36 to balance
-DEBUG:root:Taking 7.36 from balance
-DEBUG:root:Creating account with balance -7.36
-DEBUG:root:Creating account with balance 7.36
 DEBUG:root:New transaction at 30/05/2014 from Laura B to Todd
 DEBUG:root:Taking 7.01 from balance
-DEBUG:root:Taking 7.01 from balance
 DEBUG:root:Adding 7.01 to balance
-DEBUG:root:Adding 7.01 to balance
-DEBUG:root:Adding 7.01 to balance
-DEBUG:root:Taking 7.01 from balance
-DEBUG:root:Adding 7.01 to balance
-DEBUG:root:Adding 7.01 to balance
-DEBUG:root:Taking 7.01 from balance
-DEBUG:root:Adding 7.01 to balance
-DEBUG:root:Adding 7.01 to balance
-DEBUG:root:Taking 7.01 from balance
-DEBUG:root:Adding 7.01 to balance
-DEBUG:root:Adding 7.01 to balance
-DEBUG:root:Adding 7.01 to balance
-DEBUG:root:Taking 7.01 from balance
-DEBUG:root:Adding 7.01 to balance
-DEBUG:root:Taking 7.01 from balance
-DEBUG:root:Taking 7.01 from balance
-DEBUG:root:Adding 7.01 to balance
-DEBUG:root:Adding 7.01 to balance
-DEBUG:root:Taking 7.01 from balance
-DEBUG:root:Creating account with balance 7.01
 DEBUG:root:New transaction at 31/05/2014 from Tim L to Ben B
 DEBUG:root:Taking 8.23 from balance
 DEBUG:root:Adding 8.23 to balance
-DEBUG:root:Adding 8.23 to balance
-DEBUG:root:Adding 8.23 to balance
-DEBUG:root:Taking 8.23 from balance
-DEBUG:root:Adding 8.23 to balance
-DEBUG:root:Adding 8.23 to balance
-DEBUG:root:Taking 8.23 from balance
-DEBUG:root:Taking 8.23 from balance
-DEBUG:root:Adding 8.23 to balance
-DEBUG:root:Adding 8.23 to balance
-DEBUG:root:Adding 8.23 to balance
-DEBUG:root:Adding 8.23 to balance
-DEBUG:root:Taking 8.23 from balance
-DEBUG:root:Taking 8.23 from balance
-DEBUG:root:Adding 8.23 to balance
-DEBUG:root:Taking 8.23 from balance
-DEBUG:root:Taking 8.23 from balance
-DEBUG:root:Adding 8.23 to balance
-DEBUG:root:Taking 8.23 from balance
-DEBUG:root:Adding 8.23 to balance
-DEBUG:root:Creating account with balance -8.23
-DEBUG:root:Creating account with balance 8.23
 DEBUG:root:New transaction at 01/06/2014 from Tim L to Stephen S
 DEBUG:root:Adding 5.2 to balance
 DEBUG:root:Taking 5.2 from balance
-DEBUG:root:Adding 5.2 to balance
-DEBUG:root:Adding 5.2 to balance
-DEBUG:root:Adding 5.2 to balance
-DEBUG:root:Adding 5.2 to balance
-DEBUG:root:Adding 5.2 to balance
-DEBUG:root:Taking 5.2 from balance
-DEBUG:root:Adding 5.2 to balance
-DEBUG:root:Adding 5.2 to balance
-DEBUG:root:Taking 5.2 from balance
-DEBUG:root:Taking 5.2 from balance
-DEBUG:root:Adding 5.2 to balance
-DEBUG:root:Adding 5.2 to balance
-DEBUG:root:Taking 5.2 from balance
-DEBUG:root:Taking 5.2 from balance
-DEBUG:root:Taking 5.2 from balance
-DEBUG:root:Taking 5.2 from balance
-DEBUG:root:Taking 5.2 from balance
-DEBUG:root:Taking 5.2 from balance
-DEBUG:root:Creating account with balance -5.2
-DEBUG:root:Creating account with balance 5.2
 DEBUG:root:New transaction at 05/06/2014 from Dan W to Gergana I
 DEBUG:root:Adding 5.61 to balance
-DEBUG:root:Adding 5.61 to balance
 DEBUG:root:Taking 5.61 from balance
-DEBUG:root:Adding 5.61 to balance
-DEBUG:root:Adding 5.61 to balance
-DEBUG:root:Adding 5.61 to balance
-DEBUG:root:Taking 5.61 from balance
-DEBUG:root:Adding 5.61 to balance
-DEBUG:root:Taking 5.61 from balance
-DEBUG:root:Taking 5.61 from balance
-DEBUG:root:Adding 5.61 to balance
-DEBUG:root:Taking 5.61 from balance
-DEBUG:root:Creating account with balance -5.61
-DEBUG:root:Creating account with balance 5.61
 DEBUG:root:New transaction at 09/06/2014 from Sarah T to Stephen S
 DEBUG:root:Taking 11.5 from balance
 DEBUG:root:Adding 11.5 to balance
-DEBUG:root:Adding 11.5 to balance
-DEBUG:root:Adding 11.5 to balance
-DEBUG:root:Adding 11.5 to balance
-DEBUG:root:Adding 11.5 to balance
-DEBUG:root:Adding 11.5 to balance
-DEBUG:root:Taking 11.5 from balance
-DEBUG:root:Adding 11.5 to balance
-DEBUG:root:Taking 11.5 from balance
-DEBUG:root:Taking 11.5 from balance
-DEBUG:root:Adding 11.5 to balance
-DEBUG:root:Taking 11.5 from balance
-DEBUG:root:Taking 11.5 from balance
-DEBUG:root:Adding 11.5 to balance
-DEBUG:root:Taking 11.5 from balance
-DEBUG:root:Adding 11.5 to balance
-DEBUG:root:Taking 11.5 from balance
-DEBUG:root:Taking 11.5 from balance
-DEBUG:root:Adding 11.5 to balance
-DEBUG:root:Creating account with balance -11.5
-DEBUG:root:Creating account with balance 11.5
 DEBUG:root:New transaction at 11/06/2014 from Stephen S to Sam N
 DEBUG:root:Taking 5.14 from balance
-DEBUG:root:Taking 5.14 from balance
-DEBUG:root:Taking 5.14 from balance
 DEBUG:root:Adding 5.14 to balance
-DEBUG:root:Taking 5.14 from balance
-DEBUG:root:Adding 5.14 to balance
-DEBUG:root:Taking 5.14 from balance
-DEBUG:root:Adding 5.14 to balance
-DEBUG:root:Adding 5.14 to balance
-DEBUG:root:Adding 5.14 to balance
-DEBUG:root:Taking 5.14 from balance
-DEBUG:root:Adding 5.14 to balance
-DEBUG:root:Taking 5.14 from balance
-DEBUG:root:Adding 5.14 to balance
-DEBUG:root:Taking 5.14 from balance
-DEBUG:root:Adding 5.14 to balance
-DEBUG:root:Adding 5.14 to balance
-DEBUG:root:Taking 5.14 from balance
-DEBUG:root:Adding 5.14 to balance
-DEBUG:root:Adding 5.14 to balance
-DEBUG:root:Taking 5.14 from balance
-DEBUG:root:Adding 5.14 to balance
-DEBUG:root:Taking 5.14 from balance
-DEBUG:root:Taking 5.14 from balance
-DEBUG:root:Creating account with balance 5.14
 DEBUG:root:New transaction at 14/06/2014 from Todd to Sam N
 DEBUG:root:Adding 6.3 to balance
-DEBUG:root:Adding 6.3 to balance
-DEBUG:root:Adding 6.3 to balance
 DEBUG:root:Taking 6.3 from balance
-DEBUG:root:Adding 6.3 to balance
-DEBUG:root:Taking 6.3 from balance
-DEBUG:root:Taking 6.3 from balance
-DEBUG:root:Adding 6.3 to balance
-DEBUG:root:Adding 6.3 to balance
-DEBUG:root:Taking 6.3 from balance
-DEBUG:root:Adding 6.3 to balance
-DEBUG:root:Taking 6.3 from balance
-DEBUG:root:Taking 6.3 from balance
-DEBUG:root:Adding 6.3 to balance
-DEBUG:root:Taking 6.3 from balance
-DEBUG:root:Adding 6.3 to balance
-DEBUG:root:Taking 6.3 from balance
-DEBUG:root:Adding 6.3 to balance
-DEBUG:root:Taking 6.3 from balance
-DEBUG:root:Taking 6.3 from balance
-DEBUG:root:Adding 6.3 to balance
-DEBUG:root:Taking 6.3 from balance
-DEBUG:root:Taking 6.3 from balance
-DEBUG:root:Taking 6.3 from balance
-DEBUG:root:Adding 6.3 to balance
-DEBUG:root:Taking 6.3 from balance
-DEBUG:root:Adding 6.3 to balance
-DEBUG:root:Creating account with balance -6.3
 DEBUG:root:New transaction at 16/06/2014 from Stephen S to Dan W
 DEBUG:root:Taking 4.79 from balance
-DEBUG:root:Taking 4.79 from balance
-DEBUG:root:Taking 4.79 from balance
-DEBUG:root:Taking 4.79 from balance
-DEBUG:root:Taking 4.79 from balance
 DEBUG:root:Adding 4.79 to balance
-DEBUG:root:Taking 4.79 from balance
-DEBUG:root:Taking 4.79 from balance
-DEBUG:root:Taking 4.79 from balance
-DEBUG:root:Adding 4.79 to balance
-DEBUG:root:Taking 4.79 from balance
-DEBUG:root:Adding 4.79 to balance
-DEBUG:root:Taking 4.79 from balance
-DEBUG:root:Adding 4.79 to balance
-DEBUG:root:Adding 4.79 to balance
-DEBUG:root:Taking 4.79 from balance
-DEBUG:root:Adding 4.79 to balance
-DEBUG:root:Taking 4.79 from balance
-DEBUG:root:Creating account with balance -4.79
-DEBUG:root:Creating account with balance 4.79
 DEBUG:root:New transaction at 20/06/2014 from Ben B to Chris W
 DEBUG:root:Taking 1.34 from balance
-DEBUG:root:Taking 1.34 from balance
-DEBUG:root:Taking 1.34 from balance
 DEBUG:root:Adding 1.34 to balance
-DEBUG:root:Taking 1.34 from balance
-DEBUG:root:Taking 1.34 from balance
-DEBUG:root:Taking 1.34 from balance
-DEBUG:root:Taking 1.34 from balance
-DEBUG:root:Taking 1.34 from balance
-DEBUG:root:Taking 1.34 from balance
-DEBUG:root:Taking 1.34 from balance
-DEBUG:root:Adding 1.34 to balance
-DEBUG:root:Taking 1.34 from balance
-DEBUG:root:Taking 1.34 from balance
-DEBUG:root:Taking 1.34 from balance
-DEBUG:root:Creating account with balance -1.34
-DEBUG:root:Creating account with balance 1.34
 DEBUG:root:New transaction at 22/06/2014 from Tim L to Stephen S
 DEBUG:root:Adding 6.44 to balance
 DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Adding 6.44 to balance
-DEBUG:root:Adding 6.44 to balance
-DEBUG:root:Adding 6.44 to balance
-DEBUG:root:Adding 6.44 to balance
-DEBUG:root:Adding 6.44 to balance
-DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Adding 6.44 to balance
-DEBUG:root:Adding 6.44 to balance
-DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Adding 6.44 to balance
-DEBUG:root:Adding 6.44 to balance
-DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Adding 6.44 to balance
-DEBUG:root:Adding 6.44 to balance
-DEBUG:root:Adding 6.44 to balance
-DEBUG:root:Creating account with balance -6.44
-DEBUG:root:Creating account with balance 6.44
 DEBUG:root:New transaction at 23/06/2014 from Stephen S to Ben B
 DEBUG:root:Taking 11.85 from balance
-DEBUG:root:Taking 11.85 from balance
 DEBUG:root:Adding 11.85 to balance
-DEBUG:root:Taking 11.85 from balance
-DEBUG:root:Taking 11.85 from balance
-DEBUG:root:Taking 11.85 from balance
-DEBUG:root:Adding 11.85 to balance
-DEBUG:root:Adding 11.85 to balance
-DEBUG:root:Taking 11.85 from balance
-DEBUG:root:Adding 11.85 to balance
-DEBUG:root:Taking 11.85 from balance
-DEBUG:root:Adding 11.85 to balance
-DEBUG:root:Taking 11.85 from balance
-DEBUG:root:Adding 11.85 to balance
-DEBUG:root:Adding 11.85 to balance
-DEBUG:root:Taking 11.85 from balance
-DEBUG:root:Adding 11.85 to balance
-DEBUG:root:Adding 11.85 to balance
-DEBUG:root:Taking 11.85 from balance
-DEBUG:root:Adding 11.85 to balance
-DEBUG:root:Adding 11.85 to balance
-DEBUG:root:Adding 11.85 to balance
-DEBUG:root:Adding 11.85 to balance
-DEBUG:root:Taking 11.85 from balance
-DEBUG:root:Taking 11.85 from balance
-DEBUG:root:Taking 11.85 from balance
-DEBUG:root:Adding 11.85 to balance
-DEBUG:root:Taking 11.85 from balance
-DEBUG:root:Creating account with balance 11.85
 DEBUG:root:New transaction at 26/06/2014 from Chris W to Todd
 DEBUG:root:Adding 9.81 to balance
-DEBUG:root:Adding 9.81 to balance
 DEBUG:root:Taking 9.81 from balance
-DEBUG:root:Adding 9.81 to balance
-DEBUG:root:Adding 9.81 to balance
-DEBUG:root:Adding 9.81 to balance
-DEBUG:root:Adding 9.81 to balance
-DEBUG:root:Adding 9.81 to balance
-DEBUG:root:Adding 9.81 to balance
-DEBUG:root:Adding 9.81 to balance
-DEBUG:root:Adding 9.81 to balance
-DEBUG:root:Adding 9.81 to balance
-DEBUG:root:Taking 9.81 from balance
-DEBUG:root:Adding 9.81 to balance
-DEBUG:root:Adding 9.81 to balance
-DEBUG:root:Adding 9.81 to balance
-DEBUG:root:Adding 9.81 to balance
-DEBUG:root:Taking 9.81 from balance
-DEBUG:root:Creating account with balance -9.81
-DEBUG:root:Creating account with balance 9.81
 DEBUG:root:New transaction at 28/06/2014 from Sarah T to Gergana I
 DEBUG:root:Taking 4.03 from balance
 DEBUG:root:Adding 4.03 to balance
-DEBUG:root:Adding 4.03 to balance
-DEBUG:root:Adding 4.03 to balance
-DEBUG:root:Taking 4.03 from balance
-DEBUG:root:Adding 4.03 to balance
-DEBUG:root:Adding 4.03 to balance
-DEBUG:root:Taking 4.03 from balance
-DEBUG:root:Taking 4.03 from balance
-DEBUG:root:Taking 4.03 from balance
-DEBUG:root:Taking 4.03 from balance
-DEBUG:root:Taking 4.03 from balance
-DEBUG:root:Adding 4.03 to balance
-DEBUG:root:Adding 4.03 to balance
-DEBUG:root:Taking 4.03 from balance
-DEBUG:root:Taking 4.03 from balance
-DEBUG:root:Adding 4.03 to balance
-DEBUG:root:Taking 4.03 from balance
-DEBUG:root:Creating account with balance -4.03
-DEBUG:root:Creating account with balance 4.03
 DEBUG:root:New transaction at 29/06/2014 from Chris W to Laura B
 DEBUG:root:Adding 8.7 to balance
-DEBUG:root:Adding 8.7 to balance
 DEBUG:root:Taking 8.7 from balance
-DEBUG:root:Adding 8.7 to balance
-DEBUG:root:Adding 8.7 to balance
-DEBUG:root:Adding 8.7 to balance
-DEBUG:root:Adding 8.7 to balance
-DEBUG:root:Adding 8.7 to balance
-DEBUG:root:Taking 8.7 from balance
-DEBUG:root:Adding 8.7 to balance
-DEBUG:root:Adding 8.7 to balance
-DEBUG:root:Taking 8.7 from balance
-DEBUG:root:Taking 8.7 from balance
-DEBUG:root:Creating account with balance -8.7
-DEBUG:root:Creating account with balance 8.7
 DEBUG:root:New transaction at 01/07/2014 from Rob S to Jon A
 DEBUG:root:Adding 2.67 to balance
 DEBUG:root:Taking 2.67 from balance
-DEBUG:root:Taking 2.67 from balance
-DEBUG:root:Adding 2.67 to balance
-DEBUG:root:Taking 2.67 from balance
-DEBUG:root:Adding 2.67 to balance
-DEBUG:root:Taking 2.67 from balance
-DEBUG:root:Adding 2.67 to balance
-DEBUG:root:Adding 2.67 to balance
-DEBUG:root:Taking 2.67 from balance
-DEBUG:root:Taking 2.67 from balance
-DEBUG:root:Taking 2.67 from balance
-DEBUG:root:Adding 2.67 to balance
-DEBUG:root:Taking 2.67 from balance
-DEBUG:root:Adding 2.67 to balance
-DEBUG:root:Creating account with balance -2.67
-DEBUG:root:Creating account with balance 2.67
 DEBUG:root:New transaction at 02/07/2014 from Stephen S to Dan W
 DEBUG:root:Taking 2.9 from balance
-DEBUG:root:Taking 2.9 from balance
-DEBUG:root:Taking 2.9 from balance
-DEBUG:root:Taking 2.9 from balance
-DEBUG:root:Taking 2.9 from balance
 DEBUG:root:Adding 2.9 to balance
-DEBUG:root:Taking 2.9 from balance
-DEBUG:root:Taking 2.9 from balance
-DEBUG:root:Taking 2.9 from balance
-DEBUG:root:Adding 2.9 to balance
-DEBUG:root:Taking 2.9 from balance
-DEBUG:root:Adding 2.9 to balance
-DEBUG:root:Taking 2.9 from balance
-DEBUG:root:Adding 2.9 to balance
-DEBUG:root:Adding 2.9 to balance
-DEBUG:root:Taking 2.9 from balance
-DEBUG:root:Adding 2.9 to balance
-DEBUG:root:Taking 2.9 from balance
-DEBUG:root:Taking 2.9 from balance
-DEBUG:root:Adding 2.9 to balance
-DEBUG:root:Taking 2.9 from balance
-DEBUG:root:Creating account with balance -2.9
-DEBUG:root:Creating account with balance 2.9
 DEBUG:root:New transaction at 06/07/2014 from Sam N to Jon A
 DEBUG:root:Adding 4.37 to balance
 DEBUG:root:Taking 4.37 from balance
-DEBUG:root:Taking 4.37 from balance
-DEBUG:root:Taking 4.37 from balance
-DEBUG:root:Taking 4.37 from balance
-DEBUG:root:Adding 4.37 to balance
-DEBUG:root:Taking 4.37 from balance
-DEBUG:root:Taking 4.37 from balance
-DEBUG:root:Adding 4.37 to balance
-DEBUG:root:Taking 4.37 from balance
-DEBUG:root:Adding 4.37 to balance
-DEBUG:root:Taking 4.37 from balance
-DEBUG:root:Taking 4.37 from balance
-DEBUG:root:Adding 4.37 to balance
-DEBUG:root:Taking 4.37 from balance
-DEBUG:root:Taking 4.37 from balance
-DEBUG:root:Adding 4.37 to balance
-DEBUG:root:Adding 4.37 to balance
-DEBUG:root:Taking 4.37 from balance
-DEBUG:root:Taking 4.37 from balance
-DEBUG:root:Adding 4.37 to balance
-DEBUG:root:Creating account with balance -4.37
-DEBUG:root:Creating account with balance 4.37
 DEBUG:root:New transaction at 09/07/2014 from Dan W to Tim L
 DEBUG:root:Adding 5.45 to balance
 DEBUG:root:Taking 5.45 from balance
-DEBUG:root:Adding 5.45 to balance
-DEBUG:root:Adding 5.45 to balance
-DEBUG:root:Adding 5.45 to balance
-DEBUG:root:Taking 5.45 from balance
-DEBUG:root:Taking 5.45 from balance
-DEBUG:root:Adding 5.45 to balance
-DEBUG:root:Taking 5.45 from balance
-DEBUG:root:Adding 5.45 to balance
-DEBUG:root:Taking 5.45 from balance
-DEBUG:root:Adding 5.45 to balance
-DEBUG:root:Adding 5.45 to balance
-DEBUG:root:Adding 5.45 to balance
-DEBUG:root:Adding 5.45 to balance
-DEBUG:root:Adding 5.45 to balance
-DEBUG:root:Taking 5.45 from balance
-DEBUG:root:Taking 5.45 from balance
-DEBUG:root:Adding 5.45 to balance
-DEBUG:root:Taking 5.45 from balance
-DEBUG:root:Creating account with balance -5.45
-DEBUG:root:Creating account with balance 5.45
 DEBUG:root:New transaction at 11/07/2014 from Dan W to Sarah T
 DEBUG:root:Adding 5.05 to balance
 DEBUG:root:Taking 5.05 from balance
-DEBUG:root:Adding 5.05 to balance
-DEBUG:root:Adding 5.05 to balance
-DEBUG:root:Adding 5.05 to balance
-DEBUG:root:Adding 5.05 to balance
-DEBUG:root:Adding 5.05 to balance
-DEBUG:root:Taking 5.05 from balance
-DEBUG:root:Adding 5.05 to balance
-DEBUG:root:Taking 5.05 from balance
-DEBUG:root:Taking 5.05 from balance
-DEBUG:root:Taking 5.05 from balance
-DEBUG:root:Adding 5.05 to balance
-DEBUG:root:Adding 5.05 to balance
-DEBUG:root:Taking 5.05 from balance
-DEBUG:root:Adding 5.05 to balance
-DEBUG:root:Taking 5.05 from balance
-DEBUG:root:Adding 5.05 to balance
-DEBUG:root:Taking 5.05 from balance
-DEBUG:root:Taking 5.05 from balance
-DEBUG:root:Creating account with balance -5.05
-DEBUG:root:Creating account with balance 5.05
 DEBUG:root:New transaction at 14/07/2014 from Gergana I to Sam N
 DEBUG:root:Adding 10.92 to balance
 DEBUG:root:Taking 10.92 from balance
-DEBUG:root:Adding 10.92 to balance
-DEBUG:root:Adding 10.92 to balance
-DEBUG:root:Adding 10.92 to balance
-DEBUG:root:Taking 10.92 from balance
-DEBUG:root:Adding 10.92 to balance
-DEBUG:root:Taking 10.92 from balance
-DEBUG:root:Adding 10.92 to balance
-DEBUG:root:Adding 10.92 to balance
-DEBUG:root:Taking 10.92 from balance
-DEBUG:root:Taking 10.92 from balance
-DEBUG:root:Adding 10.92 to balance
-DEBUG:root:Adding 10.92 to balance
-DEBUG:root:Adding 10.92 to balance
-DEBUG:root:Adding 10.92 to balance
-DEBUG:root:Taking 10.92 from balance
-DEBUG:root:Taking 10.92 from balance
-DEBUG:root:Adding 10.92 to balance
-DEBUG:root:Taking 10.92 from balance
-DEBUG:root:Adding 10.92 to balance
-DEBUG:root:Taking 10.92 from balance
-DEBUG:root:Adding 10.92 to balance
-DEBUG:root:Creating account with balance -10.92
-DEBUG:root:Creating account with balance 10.92
 DEBUG:root:New transaction at 16/07/2014 from Jon A to Dan W
 DEBUG:root:Taking 11.75 from balance
-DEBUG:root:Taking 11.75 from balance
 DEBUG:root:Adding 11.75 to balance
-DEBUG:root:Taking 11.75 from balance
-DEBUG:root:Taking 11.75 from balance
-DEBUG:root:Adding 11.75 to balance
-DEBUG:root:Taking 11.75 from balance
-DEBUG:root:Adding 11.75 to balance
-DEBUG:root:Adding 11.75 to balance
-DEBUG:root:Taking 11.75 from balance
-DEBUG:root:Adding 11.75 to balance
-DEBUG:root:Taking 11.75 from balance
-DEBUG:root:Adding 11.75 to balance
-DEBUG:root:Adding 11.75 to balance
-DEBUG:root:Taking 11.75 from balance
-DEBUG:root:Adding 11.75 to balance
-DEBUG:root:Taking 11.75 from balance
-DEBUG:root:Adding 11.75 to balance
-DEBUG:root:Adding 11.75 to balance
-DEBUG:root:Creating account with balance -11.75
-DEBUG:root:Creating account with balance 11.75
 DEBUG:root:New transaction at 18/07/2014 from Gergana I to Stephen S
 DEBUG:root:Adding 11.57 to balance
-DEBUG:root:Adding 11.57 to balance
-DEBUG:root:Adding 11.57 to balance
-DEBUG:root:Adding 11.57 to balance
 DEBUG:root:Taking 11.57 from balance
-DEBUG:root:Adding 11.57 to balance
-DEBUG:root:Taking 11.57 from balance
-DEBUG:root:Adding 11.57 to balance
-DEBUG:root:Taking 11.57 from balance
-DEBUG:root:Adding 11.57 to balance
-DEBUG:root:Taking 11.57 from balance
-DEBUG:root:Taking 11.57 from balance
-DEBUG:root:Adding 11.57 to balance
-DEBUG:root:Adding 11.57 to balance
-DEBUG:root:Taking 11.57 from balance
-DEBUG:root:Adding 11.57 to balance
-DEBUG:root:Taking 11.57 from balance
-DEBUG:root:Adding 11.57 to balance
-DEBUG:root:Taking 11.57 from balance
-DEBUG:root:Adding 11.57 to balance
-DEBUG:root:Adding 11.57 to balance
-DEBUG:root:Adding 11.57 to balance
-DEBUG:root:Taking 11.57 from balance
-DEBUG:root:Adding 11.57 to balance
-DEBUG:root:Taking 11.57 from balance
-DEBUG:root:Creating account with balance -11.57
-DEBUG:root:Creating account with balance 11.57
 DEBUG:root:New transaction at 22/07/2014 from Sarah T to Ben B
 DEBUG:root:Taking 11.56 from balance
 DEBUG:root:Adding 11.56 to balance
-DEBUG:root:Adding 11.56 to balance
-DEBUG:root:Adding 11.56 to balance
-DEBUG:root:Taking 11.56 from balance
-DEBUG:root:Adding 11.56 to balance
-DEBUG:root:Taking 11.56 from balance
-DEBUG:root:Adding 11.56 to balance
-DEBUG:root:Taking 11.56 from balance
-DEBUG:root:Taking 11.56 from balance
-DEBUG:root:Adding 11.56 to balance
-DEBUG:root:Taking 11.56 from balance
-DEBUG:root:Adding 11.56 to balance
-DEBUG:root:Adding 11.56 to balance
-DEBUG:root:Taking 11.56 from balance
-DEBUG:root:Adding 11.56 to balance
-DEBUG:root:Adding 11.56 to balance
-DEBUG:root:Taking 11.56 from balance
-DEBUG:root:Adding 11.56 to balance
-DEBUG:root:Taking 11.56 from balance
-DEBUG:root:Adding 11.56 to balance
-DEBUG:root:Adding 11.56 to balance
-DEBUG:root:Taking 11.56 from balance
-DEBUG:root:Adding 11.56 to balance
-DEBUG:root:Adding 11.56 to balance
-DEBUG:root:Taking 11.56 from balance
-DEBUG:root:Taking 11.56 from balance
-DEBUG:root:Creating account with balance -11.56
-DEBUG:root:Creating account with balance 11.56
 DEBUG:root:New transaction at 23/07/2014 from Rob S to Tim L
 DEBUG:root:Adding 11.47 to balance
 DEBUG:root:Taking 11.47 from balance
-DEBUG:root:Taking 11.47 from balance
-DEBUG:root:Adding 11.47 to balance
-DEBUG:root:Taking 11.47 from balance
-DEBUG:root:Adding 11.47 to balance
-DEBUG:root:Taking 11.47 from balance
-DEBUG:root:Adding 11.47 to balance
-DEBUG:root:Taking 11.47 from balance
-DEBUG:root:Taking 11.47 from balance
-DEBUG:root:Taking 11.47 from balance
-DEBUG:root:Adding 11.47 to balance
-DEBUG:root:Adding 11.47 to balance
-DEBUG:root:Adding 11.47 to balance
-DEBUG:root:Adding 11.47 to balance
-DEBUG:root:Taking 11.47 from balance
-DEBUG:root:Adding 11.47 to balance
-DEBUG:root:Adding 11.47 to balance
-DEBUG:root:Adding 11.47 to balance
-DEBUG:root:Adding 11.47 to balance
-DEBUG:root:Taking 11.47 from balance
-DEBUG:root:Adding 11.47 to balance
-DEBUG:root:Creating account with balance -11.47
-DEBUG:root:Creating account with balance 11.47
 DEBUG:root:New transaction at 25/07/2014 from Laura B to Stephen S
 DEBUG:root:Adding 9.42 to balance
 DEBUG:root:Taking 9.42 from balance
-DEBUG:root:Adding 9.42 to balance
-DEBUG:root:Adding 9.42 to balance
-DEBUG:root:Adding 9.42 to balance
-DEBUG:root:Adding 9.42 to balance
-DEBUG:root:Taking 9.42 from balance
-DEBUG:root:Taking 9.42 from balance
-DEBUG:root:Adding 9.42 to balance
-DEBUG:root:Adding 9.42 to balance
-DEBUG:root:Taking 9.42 from balance
-DEBUG:root:Adding 9.42 to balance
-DEBUG:root:Taking 9.42 from balance
-DEBUG:root:Adding 9.42 to balance
-DEBUG:root:Taking 9.42 from balance
-DEBUG:root:Adding 9.42 to balance
-DEBUG:root:Taking 9.42 from balance
-DEBUG:root:Taking 9.42 from balance
-DEBUG:root:Taking 9.42 from balance
-DEBUG:root:Adding 9.42 to balance
-DEBUG:root:Adding 9.42 to balance
-DEBUG:root:Adding 9.42 to balance
-DEBUG:root:Adding 9.42 to balance
-DEBUG:root:Taking 9.42 from balance
-DEBUG:root:Adding 9.42 to balance
-DEBUG:root:Adding 9.42 to balance
-DEBUG:root:Creating account with balance -9.42
-DEBUG:root:Creating account with balance 9.42
 DEBUG:root:New transaction at 28/07/2014 from Gergana I to Chris W
 DEBUG:root:Taking 2.33 from balance
-DEBUG:root:Taking 2.33 from balance
 DEBUG:root:Adding 2.33 to balance
-DEBUG:root:Taking 2.33 from balance
-DEBUG:root:Taking 2.33 from balance
-DEBUG:root:Taking 2.33 from balance
-DEBUG:root:Taking 2.33 from balance
-DEBUG:root:Taking 2.33 from balance
-DEBUG:root:Adding 2.33 to balance
-DEBUG:root:Taking 2.33 from balance
-DEBUG:root:Adding 2.33 to balance
-DEBUG:root:Adding 2.33 to balance
-DEBUG:root:Taking 2.33 from balance
-DEBUG:root:Adding 2.33 to balance
-DEBUG:root:Taking 2.33 from balance
-DEBUG:root:Taking 2.33 from balance
-DEBUG:root:Creating account with balance -2.33
-DEBUG:root:Creating account with balance 2.33
 DEBUG:root:New transaction at 29/07/2014 from Jon A to Sam N
 DEBUG:root:Taking 5.31 from balance
 DEBUG:root:Adding 5.31 to balance
-DEBUG:root:Adding 5.31 to balance
-DEBUG:root:Adding 5.31 to balance
-DEBUG:root:Adding 5.31 to balance
-DEBUG:root:Taking 5.31 from balance
-DEBUG:root:Adding 5.31 to balance
-DEBUG:root:Adding 5.31 to balance
-DEBUG:root:Taking 5.31 from balance
-DEBUG:root:Adding 5.31 to balance
-DEBUG:root:Taking 5.31 from balance
-DEBUG:root:Adding 5.31 to balance
-DEBUG:root:Adding 5.31 to balance
-DEBUG:root:Taking 5.31 from balance
-DEBUG:root:Adding 5.31 to balance
-DEBUG:root:Adding 5.31 to balance
-DEBUG:root:Taking 5.31 from balance
-DEBUG:root:Taking 5.31 from balance
-DEBUG:root:Adding 5.31 to balance
-DEBUG:root:Adding 5.31 to balance
-DEBUG:root:Taking 5.31 from balance
-DEBUG:root:Adding 5.31 to balance
-DEBUG:root:Taking 5.31 from balance
-DEBUG:root:Adding 5.31 to balance
-DEBUG:root:Taking 5.31 from balance
-DEBUG:root:Creating account with balance -5.31
-DEBUG:root:Creating account with balance 5.31
 DEBUG:root:New transaction at 01/08/2014 from Sam N to Gergana I
 DEBUG:root:Taking 2.72 from balance
 DEBUG:root:Adding 2.72 to balance
-DEBUG:root:Taking 2.72 from balance
-DEBUG:root:Taking 2.72 from balance
-DEBUG:root:Taking 2.72 from balance
-DEBUG:root:Adding 2.72 to balance
-DEBUG:root:Taking 2.72 from balance
-DEBUG:root:Adding 2.72 to balance
-DEBUG:root:Taking 2.72 from balance
-DEBUG:root:Taking 2.72 from balance
-DEBUG:root:Adding 2.72 to balance
-DEBUG:root:Adding 2.72 to balance
-DEBUG:root:Taking 2.72 from balance
-DEBUG:root:Taking 2.72 from balance
-DEBUG:root:Taking 2.72 from balance
-DEBUG:root:Taking 2.72 from balance
-DEBUG:root:Adding 2.72 to balance
-DEBUG:root:Adding 2.72 to balance
-DEBUG:root:Taking 2.72 from balance
-DEBUG:root:Adding 2.72 to balance
-DEBUG:root:Taking 2.72 from balance
-DEBUG:root:Adding 2.72 to balance
-DEBUG:root:Taking 2.72 from balance
-DEBUG:root:Adding 2.72 to balance
-DEBUG:root:Taking 2.72 from balance
-DEBUG:root:Adding 2.72 to balance
-DEBUG:root:Adding 2.72 to balance
-DEBUG:root:Taking 2.72 from balance
-DEBUG:root:Creating account with balance 2.72
 DEBUG:root:New transaction at 03/08/2014 from Laura B to Rob S
 DEBUG:root:Taking 6.26 from balance
 DEBUG:root:Adding 6.26 to balance
-DEBUG:root:Taking 6.26 from balance
-DEBUG:root:Adding 6.26 to balance
-DEBUG:root:Taking 6.26 from balance
-DEBUG:root:Adding 6.26 to balance
-DEBUG:root:Taking 6.26 from balance
-DEBUG:root:Adding 6.26 to balance
-DEBUG:root:Taking 6.26 from balance
-DEBUG:root:Adding 6.26 to balance
-DEBUG:root:Taking 6.26 from balance
-DEBUG:root:Adding 6.26 to balance
-DEBUG:root:Adding 6.26 to balance
-DEBUG:root:Taking 6.26 from balance
-DEBUG:root:Taking 6.26 from balance
-DEBUG:root:Adding 6.26 to balance
-DEBUG:root:Taking 6.26 from balance
-DEBUG:root:Taking 6.26 from balance
-DEBUG:root:Adding 6.26 to balance
-DEBUG:root:Adding 6.26 to balance
-DEBUG:root:Taking 6.26 from balance
-DEBUG:root:Creating account with balance -6.26
-DEBUG:root:Creating account with balance 6.26
 DEBUG:root:New transaction at 04/08/2014 from Gergana I to Ben B
 DEBUG:root:Adding 7.81 to balance
 DEBUG:root:Taking 7.81 from balance
-DEBUG:root:Adding 7.81 to balance
-DEBUG:root:Taking 7.81 from balance
-DEBUG:root:Adding 7.81 to balance
-DEBUG:root:Taking 7.81 from balance
-DEBUG:root:Adding 7.81 to balance
-DEBUG:root:Taking 7.81 from balance
-DEBUG:root:Taking 7.81 from balance
-DEBUG:root:Adding 7.81 to balance
-DEBUG:root:Adding 7.81 to balance
-DEBUG:root:Adding 7.81 to balance
-DEBUG:root:Adding 7.81 to balance
-DEBUG:root:Adding 7.81 to balance
-DEBUG:root:Taking 7.81 from balance
-DEBUG:root:Adding 7.81 to balance
-DEBUG:root:Taking 7.81 from balance
-DEBUG:root:Adding 7.81 to balance
-DEBUG:root:Adding 7.81 to balance
-DEBUG:root:Adding 7.81 to balance
-DEBUG:root:Taking 7.81 from balance
-DEBUG:root:Adding 7.81 to balance
-DEBUG:root:Adding 7.81 to balance
-DEBUG:root:Taking 7.81 from balance
-DEBUG:root:Taking 7.81 from balance
-DEBUG:root:Taking 7.81 from balance
-DEBUG:root:Adding 7.81 to balance
-DEBUG:root:Taking 7.81 from balance
-DEBUG:root:Taking 7.81 from balance
-DEBUG:root:Creating account with balance -7.81
-DEBUG:root:Creating account with balance 7.81
 DEBUG:root:New transaction at 08/08/2014 from Tim L to Laura B
 DEBUG:root:Taking 3.76 from balance
 DEBUG:root:Adding 3.76 to balance
-DEBUG:root:Adding 3.76 to balance
-DEBUG:root:Adding 3.76 to balance
-DEBUG:root:Taking 3.76 from balance
-DEBUG:root:Adding 3.76 to balance
-DEBUG:root:Taking 3.76 from balance
-DEBUG:root:Taking 3.76 from balance
-DEBUG:root:Adding 3.76 to balance
-DEBUG:root:Adding 3.76 to balance
-DEBUG:root:Taking 3.76 from balance
-DEBUG:root:Taking 3.76 from balance
-DEBUG:root:Adding 3.76 to balance
-DEBUG:root:Taking 3.76 from balance
-DEBUG:root:Adding 3.76 to balance
-DEBUG:root:Taking 3.76 from balance
-DEBUG:root:Taking 3.76 from balance
-DEBUG:root:Adding 3.76 to balance
-DEBUG:root:Taking 3.76 from balance
-DEBUG:root:Taking 3.76 from balance
-DEBUG:root:Taking 3.76 from balance
-DEBUG:root:Adding 3.76 to balance
-DEBUG:root:Taking 3.76 from balance
-DEBUG:root:Taking 3.76 from balance
-DEBUG:root:Adding 3.76 to balance
-DEBUG:root:Adding 3.76 to balance
-DEBUG:root:Creating account with balance -3.76
-DEBUG:root:Creating account with balance 3.76
 DEBUG:root:New transaction at 11/08/2014 from Stephen S to Rob S
 DEBUG:root:Taking 8.91 from balance
-DEBUG:root:Taking 8.91 from balance
 DEBUG:root:Adding 8.91 to balance
-DEBUG:root:Taking 8.91 from balance
-DEBUG:root:Taking 8.91 from balance
-DEBUG:root:Taking 8.91 from balance
-DEBUG:root:Adding 8.91 to balance
-DEBUG:root:Taking 8.91 from balance
-DEBUG:root:Adding 8.91 to balance
-DEBUG:root:Taking 8.91 from balance
-DEBUG:root:Taking 8.91 from balance
-DEBUG:root:Adding 8.91 to balance
-DEBUG:root:Taking 8.91 from balance
-DEBUG:root:Adding 8.91 to balance
-DEBUG:root:Adding 8.91 to balance
-DEBUG:root:Taking 8.91 from balance
-DEBUG:root:Adding 8.91 to balance
-DEBUG:root:Adding 8.91 to balance
-DEBUG:root:Taking 8.91 from balance
-DEBUG:root:Taking 8.91 from balance
-DEBUG:root:Taking 8.91 from balance
-DEBUG:root:Taking 8.91 from balance
-DEBUG:root:Adding 8.91 to balance
-DEBUG:root:Taking 8.91 from balance
-DEBUG:root:Taking 8.91 from balance
-DEBUG:root:Adding 8.91 to balance
-DEBUG:root:Taking 8.91 from balance
-DEBUG:root:Adding 8.91 to balance
-DEBUG:root:Creating account with balance -8.91
-DEBUG:root:Creating account with balance 8.91
 DEBUG:root:New transaction at 13/08/2014 from Sarah T to Todd
 DEBUG:root:Taking 8.25 from balance
 DEBUG:root:Adding 8.25 to balance
-DEBUG:root:Adding 8.25 to balance
-DEBUG:root:Adding 8.25 to balance
-DEBUG:root:Taking 8.25 from balance
-DEBUG:root:Adding 8.25 to balance
-DEBUG:root:Adding 8.25 to balance
-DEBUG:root:Adding 8.25 to balance
-DEBUG:root:Taking 8.25 from balance
-DEBUG:root:Taking 8.25 from balance
-DEBUG:root:Taking 8.25 from balance
-DEBUG:root:Adding 8.25 to balance
-DEBUG:root:Taking 8.25 from balance
-DEBUG:root:Adding 8.25 to balance
-DEBUG:root:Adding 8.25 to balance
-DEBUG:root:Taking 8.25 from balance
-DEBUG:root:Adding 8.25 to balance
-DEBUG:root:Adding 8.25 to balance
-DEBUG:root:Taking 8.25 from balance
-DEBUG:root:Adding 8.25 to balance
-DEBUG:root:Taking 8.25 from balance
-DEBUG:root:Adding 8.25 to balance
-DEBUG:root:Adding 8.25 to balance
-DEBUG:root:Taking 8.25 from balance
-DEBUG:root:Adding 8.25 to balance
-DEBUG:root:Adding 8.25 to balance
-DEBUG:root:Taking 8.25 from balance
-DEBUG:root:Taking 8.25 from balance
-DEBUG:root:Taking 8.25 from balance
-DEBUG:root:Creating account with balance -8.25
-DEBUG:root:Creating account with balance 8.25
 DEBUG:root:New transaction at 14/08/2014 from Chris W to Tim L
 DEBUG:root:Adding 6.59 to balance
 DEBUG:root:Taking 6.59 from balance
-DEBUG:root:Adding 6.59 to balance
-DEBUG:root:Adding 6.59 to balance
-DEBUG:root:Adding 6.59 to balance
-DEBUG:root:Adding 6.59 to balance
-DEBUG:root:Adding 6.59 to balance
-DEBUG:root:Adding 6.59 to balance
-DEBUG:root:Taking 6.59 from balance
-DEBUG:root:Adding 6.59 to balance
-DEBUG:root:Adding 6.59 to balance
-DEBUG:root:Adding 6.59 to balance
-DEBUG:root:Adding 6.59 to balance
-DEBUG:root:Taking 6.59 from balance
-DEBUG:root:Adding 6.59 to balance
-DEBUG:root:Taking 6.59 from balance
-DEBUG:root:Taking 6.59 from balance
-DEBUG:root:Adding 6.59 to balance
-DEBUG:root:Adding 6.59 to balance
-DEBUG:root:Taking 6.59 from balance
-DEBUG:root:Adding 6.59 to balance
-DEBUG:root:Creating account with balance -6.59
-DEBUG:root:Creating account with balance 6.59
 DEBUG:root:New transaction at 18/08/2014 from Jon A to Tim L
 DEBUG:root:Taking 7.22 from balance
 DEBUG:root:Adding 7.22 to balance
-DEBUG:root:Taking 7.22 from balance
-DEBUG:root:Adding 7.22 to balance
-DEBUG:root:Taking 7.22 from balance
-DEBUG:root:Adding 7.22 to balance
-DEBUG:root:Adding 7.22 to balance
-DEBUG:root:Taking 7.22 from balance
-DEBUG:root:Taking 7.22 from balance
-DEBUG:root:Adding 7.22 to balance
-DEBUG:root:Adding 7.22 to balance
-DEBUG:root:Taking 7.22 from balance
-DEBUG:root:Adding 7.22 to balance
-DEBUG:root:Adding 7.22 to balance
-DEBUG:root:Taking 7.22 from balance
-DEBUG:root:Adding 7.22 to balance
-DEBUG:root:Adding 7.22 to balance
-DEBUG:root:Adding 7.22 to balance
-DEBUG:root:Adding 7.22 to balance
-DEBUG:root:Taking 7.22 from balance
-DEBUG:root:Taking 7.22 from balance
-DEBUG:root:Adding 7.22 to balance
-DEBUG:root:Taking 7.22 from balance
-DEBUG:root:Adding 7.22 to balance
-DEBUG:root:Taking 7.22 from balance
-DEBUG:root:Adding 7.22 to balance
-DEBUG:root:Adding 7.22 to balance
-DEBUG:root:Creating account with balance -7.22
 DEBUG:root:New transaction at 21/08/2014 from Ben B to Gergana I
 DEBUG:root:Taking 9.25 from balance
 DEBUG:root:Adding 9.25 to balance
-DEBUG:root:Taking 9.25 from balance
-DEBUG:root:Adding 9.25 to balance
-DEBUG:root:Taking 9.25 from balance
-DEBUG:root:Adding 9.25 to balance
-DEBUG:root:Taking 9.25 from balance
-DEBUG:root:Adding 9.25 to balance
-DEBUG:root:Adding 9.25 to balance
-DEBUG:root:Taking 9.25 from balance
-DEBUG:root:Taking 9.25 from balance
-DEBUG:root:Taking 9.25 from balance
-DEBUG:root:Taking 9.25 from balance
-DEBUG:root:Taking 9.25 from balance
-DEBUG:root:Adding 9.25 to balance
-DEBUG:root:Taking 9.25 from balance
-DEBUG:root:Adding 9.25 to balance
-DEBUG:root:Taking 9.25 from balance
-DEBUG:root:Taking 9.25 from balance
-DEBUG:root:Taking 9.25 from balance
-DEBUG:root:Adding 9.25 to balance
-DEBUG:root:Taking 9.25 from balance
-DEBUG:root:Taking 9.25 from balance
-DEBUG:root:Adding 9.25 to balance
-DEBUG:root:Adding 9.25 to balance
-DEBUG:root:Adding 9.25 to balance
-DEBUG:root:Taking 9.25 from balance
-DEBUG:root:Adding 9.25 to balance
-DEBUG:root:Adding 9.25 to balance
-DEBUG:root:Adding 9.25 to balance
-DEBUG:root:Taking 9.25 from balance
-DEBUG:root:Creating account with balance -9.25
-DEBUG:root:Creating account with balance 9.25
 DEBUG:root:New transaction at 22/08/2014 from Chris W to Sam N
 DEBUG:root:Adding 1.9 to balance
-DEBUG:root:Adding 1.9 to balance
-DEBUG:root:Adding 1.9 to balance
-DEBUG:root:Adding 1.9 to balance
 DEBUG:root:Taking 1.9 from balance
-DEBUG:root:Adding 1.9 to balance
-DEBUG:root:Adding 1.9 to balance
-DEBUG:root:Adding 1.9 to balance
-DEBUG:root:Adding 1.9 to balance
-DEBUG:root:Adding 1.9 to balance
-DEBUG:root:Adding 1.9 to balance
-DEBUG:root:Adding 1.9 to balance
-DEBUG:root:Taking 1.9 from balance
-DEBUG:root:Adding 1.9 to balance
-DEBUG:root:Adding 1.9 to balance
-DEBUG:root:Taking 1.9 from balance
-DEBUG:root:Taking 1.9 from balance
-DEBUG:root:Taking 1.9 from balance
-DEBUG:root:Adding 1.9 to balance
-DEBUG:root:Adding 1.9 to balance
-DEBUG:root:Taking 1.9 from balance
-DEBUG:root:Adding 1.9 to balance
-DEBUG:root:Taking 1.9 from balance
-DEBUG:root:Creating account with balance -1.9
-DEBUG:root:Creating account with balance 1.9
 DEBUG:root:New transaction at 23/08/2014 from Ben B to Stephen S
 DEBUG:root:Adding 5.02 to balance
-DEBUG:root:Adding 5.02 to balance
 DEBUG:root:Taking 5.02 from balance
-DEBUG:root:Adding 5.02 to balance
-DEBUG:root:Adding 5.02 to balance
-DEBUG:root:Adding 5.02 to balance
-DEBUG:root:Taking 5.02 from balance
-DEBUG:root:Taking 5.02 from balance
-DEBUG:root:Adding 5.02 to balance
-DEBUG:root:Taking 5.02 from balance
-DEBUG:root:Adding 5.02 to balance
-DEBUG:root:Taking 5.02 from balance
-DEBUG:root:Adding 5.02 to balance
-DEBUG:root:Taking 5.02 from balance
-DEBUG:root:Taking 5.02 from balance
-DEBUG:root:Adding 5.02 to balance
-DEBUG:root:Taking 5.02 from balance
-DEBUG:root:Taking 5.02 from balance
-DEBUG:root:Adding 5.02 to balance
-DEBUG:root:Taking 5.02 from balance
-DEBUG:root:Taking 5.02 from balance
-DEBUG:root:Taking 5.02 from balance
-DEBUG:root:Taking 5.02 from balance
-DEBUG:root:Adding 5.02 to balance
-DEBUG:root:Adding 5.02 to balance
-DEBUG:root:Adding 5.02 to balance
-DEBUG:root:Taking 5.02 from balance
-DEBUG:root:Adding 5.02 to balance
-DEBUG:root:Taking 5.02 from balance
-DEBUG:root:Adding 5.02 to balance
-DEBUG:root:Adding 5.02 to balance
-DEBUG:root:Taking 5.02 from balance
-DEBUG:root:Adding 5.02 to balance
-DEBUG:root:Taking 5.02 from balance
-DEBUG:root:Adding 5.02 to balance
-DEBUG:root:Taking 5.02 from balance
-DEBUG:root:Creating account with balance -5.02
-DEBUG:root:Creating account with balance 5.02
 DEBUG:root:New transaction at 24/08/2014 from Laura B to Stephen S
 DEBUG:root:Adding 7.45 to balance
 DEBUG:root:Taking 7.45 from balance
-DEBUG:root:Adding 7.45 to balance
-DEBUG:root:Adding 7.45 to balance
-DEBUG:root:Adding 7.45 to balance
-DEBUG:root:Adding 7.45 to balance
-DEBUG:root:Taking 7.45 from balance
-DEBUG:root:Taking 7.45 from balance
-DEBUG:root:Adding 7.45 to balance
-DEBUG:root:Adding 7.45 to balance
-DEBUG:root:Taking 7.45 from balance
-DEBUG:root:Adding 7.45 to balance
-DEBUG:root:Taking 7.45 from balance
-DEBUG:root:Adding 7.45 to balance
-DEBUG:root:Taking 7.45 from balance
-DEBUG:root:Adding 7.45 to balance
-DEBUG:root:Taking 7.45 from balance
-DEBUG:root:Taking 7.45 from balance
-DEBUG:root:Taking 7.45 from balance
-DEBUG:root:Adding 7.45 to balance
-DEBUG:root:Adding 7.45 to balance
-DEBUG:root:Adding 7.45 to balance
-DEBUG:root:Adding 7.45 to balance
-DEBUG:root:Taking 7.45 from balance
-DEBUG:root:Adding 7.45 to balance
-DEBUG:root:Adding 7.45 to balance
-DEBUG:root:Taking 7.45 from balance
-DEBUG:root:Adding 7.45 to balance
-DEBUG:root:Taking 7.45 from balance
-DEBUG:root:Taking 7.45 from balance
-DEBUG:root:Adding 7.45 to balance
-DEBUG:root:Adding 7.45 to balance
-DEBUG:root:Creating account with balance -7.45
 DEBUG:root:New transaction at 25/08/2014 from Gergana I to Stephen S
 DEBUG:root:Adding 8.57 to balance
-DEBUG:root:Adding 8.57 to balance
-DEBUG:root:Adding 8.57 to balance
-DEBUG:root:Adding 8.57 to balance
 DEBUG:root:Taking 8.57 from balance
-DEBUG:root:Adding 8.57 to balance
-DEBUG:root:Taking 8.57 from balance
-DEBUG:root:Adding 8.57 to balance
-DEBUG:root:Taking 8.57 from balance
-DEBUG:root:Adding 8.57 to balance
-DEBUG:root:Taking 8.57 from balance
-DEBUG:root:Taking 8.57 from balance
-DEBUG:root:Adding 8.57 to balance
-DEBUG:root:Adding 8.57 to balance
-DEBUG:root:Taking 8.57 from balance
-DEBUG:root:Adding 8.57 to balance
-DEBUG:root:Taking 8.57 from balance
-DEBUG:root:Adding 8.57 to balance
-DEBUG:root:Taking 8.57 from balance
-DEBUG:root:Adding 8.57 to balance
-DEBUG:root:Adding 8.57 to balance
-DEBUG:root:Adding 8.57 to balance
-DEBUG:root:Taking 8.57 from balance
-DEBUG:root:Adding 8.57 to balance
-DEBUG:root:Taking 8.57 from balance
-DEBUG:root:Taking 8.57 from balance
-DEBUG:root:Adding 8.57 to balance
-DEBUG:root:Adding 8.57 to balance
-DEBUG:root:Taking 8.57 from balance
-DEBUG:root:Taking 8.57 from balance
-DEBUG:root:Taking 8.57 from balance
-DEBUG:root:Adding 8.57 to balance
-DEBUG:root:Taking 8.57 from balance
-DEBUG:root:Adding 8.57 to balance
-DEBUG:root:Creating account with balance -8.57
-DEBUG:root:Creating account with balance 8.57
 DEBUG:root:New transaction at 28/08/2014 from Laura B to Tim L
 DEBUG:root:Adding 0.57 to balance
 DEBUG:root:Taking 0.57 from balance
-DEBUG:root:Taking 0.57 from balance
-DEBUG:root:Taking 0.57 from balance
-DEBUG:root:Adding 0.57 to balance
-DEBUG:root:Taking 0.57 from balance
-DEBUG:root:Adding 0.57 to balance
-DEBUG:root:Adding 0.57 to balance
-DEBUG:root:Taking 0.57 from balance
-DEBUG:root:Taking 0.57 from balance
-DEBUG:root:Adding 0.57 to balance
-DEBUG:root:Adding 0.57 to balance
-DEBUG:root:Taking 0.57 from balance
-DEBUG:root:Adding 0.57 to balance
-DEBUG:root:Taking 0.57 from balance
-DEBUG:root:Adding 0.57 to balance
-DEBUG:root:Adding 0.57 to balance
-DEBUG:root:Taking 0.57 from balance
-DEBUG:root:Adding 0.57 to balance
-DEBUG:root:Adding 0.57 to balance
-DEBUG:root:Adding 0.57 to balance
-DEBUG:root:Taking 0.57 from balance
-DEBUG:root:Adding 0.57 to balance
-DEBUG:root:Adding 0.57 to balance
-DEBUG:root:Taking 0.57 from balance
-DEBUG:root:Taking 0.57 from balance
-DEBUG:root:Adding 0.57 to balance
-DEBUG:root:Taking 0.57 from balance
-DEBUG:root:Adding 0.57 to balance
-DEBUG:root:Taking 0.57 from balance
-DEBUG:root:Creating account with balance -0.57
-DEBUG:root:Creating account with balance 0.57
 DEBUG:root:New transaction at 29/08/2014 from Ben B to Chris W
 DEBUG:root:Taking 1.66 from balance
-DEBUG:root:Taking 1.66 from balance
-DEBUG:root:Taking 1.66 from balance
 DEBUG:root:Adding 1.66 to balance
-DEBUG:root:Taking 1.66 from balance
-DEBUG:root:Taking 1.66 from balance
-DEBUG:root:Taking 1.66 from balance
-DEBUG:root:Taking 1.66 from balance
-DEBUG:root:Taking 1.66 from balance
-DEBUG:root:Taking 1.66 from balance
-DEBUG:root:Taking 1.66 from balance
-DEBUG:root:Adding 1.66 to balance
-DEBUG:root:Taking 1.66 from balance
-DEBUG:root:Taking 1.66 from balance
-DEBUG:root:Taking 1.66 from balance
-DEBUG:root:Taking 1.66 from balance
-DEBUG:root:Adding 1.66 to balance
-DEBUG:root:Taking 1.66 from balance
-DEBUG:root:Adding 1.66 to balance
-DEBUG:root:Adding 1.66 to balance
-DEBUG:root:Taking 1.66 from balance
-DEBUG:root:Adding 1.66 to balance
-DEBUG:root:Taking 1.66 from balance
-DEBUG:root:Adding 1.66 to balance
-DEBUG:root:Taking 1.66 from balance
-DEBUG:root:Adding 1.66 to balance
-DEBUG:root:Taking 1.66 from balance
-DEBUG:root:Creating account with balance -1.66
-DEBUG:root:Creating account with balance 1.66
 DEBUG:root:New transaction at 01/09/2014 from Sam N to Gergana I
 DEBUG:root:Taking 9.41 from balance
 DEBUG:root:Adding 9.41 to balance
-DEBUG:root:Taking 9.41 from balance
-DEBUG:root:Taking 9.41 from balance
-DEBUG:root:Taking 9.41 from balance
-DEBUG:root:Adding 9.41 to balance
-DEBUG:root:Taking 9.41 from balance
-DEBUG:root:Adding 9.41 to balance
-DEBUG:root:Taking 9.41 from balance
-DEBUG:root:Taking 9.41 from balance
-DEBUG:root:Adding 9.41 to balance
-DEBUG:root:Adding 9.41 to balance
-DEBUG:root:Taking 9.41 from balance
-DEBUG:root:Taking 9.41 from balance
-DEBUG:root:Taking 9.41 from balance
-DEBUG:root:Taking 9.41 from balance
-DEBUG:root:Adding 9.41 to balance
-DEBUG:root:Adding 9.41 to balance
-DEBUG:root:Taking 9.41 from balance
-DEBUG:root:Adding 9.41 to balance
-DEBUG:root:Taking 9.41 from balance
-DEBUG:root:Adding 9.41 to balance
-DEBUG:root:Taking 9.41 from balance
-DEBUG:root:Adding 9.41 to balance
-DEBUG:root:Taking 9.41 from balance
-DEBUG:root:Adding 9.41 to balance
-DEBUG:root:Adding 9.41 to balance
-DEBUG:root:Taking 9.41 from balance
-DEBUG:root:Adding 9.41 to balance
-DEBUG:root:Adding 9.41 to balance
-DEBUG:root:Adding 9.41 to balance
-DEBUG:root:Taking 9.41 from balance
-DEBUG:root:Adding 9.41 to balance
-DEBUG:root:Creating account with balance -9.41
-DEBUG:root:Creating account with balance 9.41
 DEBUG:root:New transaction at 03/09/2014 from Jon A to Tim L
 DEBUG:root:Taking 8.13 from balance
 DEBUG:root:Adding 8.13 to balance
-DEBUG:root:Taking 8.13 from balance
-DEBUG:root:Adding 8.13 to balance
-DEBUG:root:Taking 8.13 from balance
-DEBUG:root:Adding 8.13 to balance
-DEBUG:root:Adding 8.13 to balance
-DEBUG:root:Taking 8.13 from balance
-DEBUG:root:Taking 8.13 from balance
-DEBUG:root:Adding 8.13 to balance
-DEBUG:root:Adding 8.13 to balance
-DEBUG:root:Taking 8.13 from balance
-DEBUG:root:Adding 8.13 to balance
-DEBUG:root:Adding 8.13 to balance
-DEBUG:root:Taking 8.13 from balance
-DEBUG:root:Adding 8.13 to balance
-DEBUG:root:Adding 8.13 to balance
-DEBUG:root:Adding 8.13 to balance
-DEBUG:root:Adding 8.13 to balance
-DEBUG:root:Taking 8.13 from balance
-DEBUG:root:Taking 8.13 from balance
-DEBUG:root:Adding 8.13 to balance
-DEBUG:root:Taking 8.13 from balance
-DEBUG:root:Adding 8.13 to balance
-DEBUG:root:Taking 8.13 from balance
-DEBUG:root:Adding 8.13 to balance
-DEBUG:root:Adding 8.13 to balance
-DEBUG:root:Taking 8.13 from balance
-DEBUG:root:Adding 8.13 to balance
-DEBUG:root:Creating account with balance -8.13
-DEBUG:root:Creating account with balance 8.13
 DEBUG:root:New transaction at 06/09/2014 from Dan W to Todd
 DEBUG:root:Adding 1.8 to balance
-DEBUG:root:Adding 1.8 to balance
-DEBUG:root:Adding 1.8 to balance
 DEBUG:root:Taking 1.8 from balance
-DEBUG:root:Adding 1.8 to balance
-DEBUG:root:Adding 1.8 to balance
-DEBUG:root:Adding 1.8 to balance
-DEBUG:root:Adding 1.8 to balance
-DEBUG:root:Taking 1.8 from balance
-DEBUG:root:Adding 1.8 to balance
-DEBUG:root:Adding 1.8 to balance
-DEBUG:root:Adding 1.8 to balance
-DEBUG:root:Taking 1.8 from balance
-DEBUG:root:Taking 1.8 from balance
-DEBUG:root:Adding 1.8 to balance
-DEBUG:root:Taking 1.8 from balance
-DEBUG:root:Adding 1.8 to balance
-DEBUG:root:Adding 1.8 to balance
-DEBUG:root:Adding 1.8 to balance
-DEBUG:root:Taking 1.8 from balance
-DEBUG:root:Adding 1.8 to balance
-DEBUG:root:Taking 1.8 from balance
-DEBUG:root:Adding 1.8 to balance
-DEBUG:root:Taking 1.8 from balance
-DEBUG:root:Taking 1.8 from balance
-DEBUG:root:Taking 1.8 from balance
-DEBUG:root:Taking 1.8 from balance
-DEBUG:root:Adding 1.8 to balance
-DEBUG:root:Creating account with balance -1.8
-DEBUG:root:Creating account with balance 1.8
 DEBUG:root:New transaction at 09/09/2014 from Todd to Dan W
 DEBUG:root:Taking 3.93 from balance
-DEBUG:root:Taking 3.93 from balance
-DEBUG:root:Taking 3.93 from balance
 DEBUG:root:Adding 3.93 to balance
-DEBUG:root:Taking 3.93 from balance
-DEBUG:root:Taking 3.93 from balance
-DEBUG:root:Taking 3.93 from balance
-DEBUG:root:Taking 3.93 from balance
-DEBUG:root:Adding 3.93 to balance
-DEBUG:root:Taking 3.93 from balance
-DEBUG:root:Taking 3.93 from balance
-DEBUG:root:Taking 3.93 from balance
-DEBUG:root:Adding 3.93 to balance
-DEBUG:root:Adding 3.93 to balance
-DEBUG:root:Taking 3.93 from balance
-DEBUG:root:Adding 3.93 to balance
-DEBUG:root:Taking 3.93 from balance
-DEBUG:root:Taking 3.93 from balance
-DEBUG:root:Taking 3.93 from balance
-DEBUG:root:Adding 3.93 to balance
-DEBUG:root:Taking 3.93 from balance
-DEBUG:root:Adding 3.93 to balance
-DEBUG:root:Taking 3.93 from balance
-DEBUG:root:Adding 3.93 to balance
-DEBUG:root:Adding 3.93 to balance
-DEBUG:root:Adding 3.93 to balance
-DEBUG:root:Adding 3.93 to balance
-DEBUG:root:Taking 3.93 from balance
-DEBUG:root:Adding 3.93 to balance
-DEBUG:root:Taking 3.93 from balance
-DEBUG:root:Creating account with balance 3.93
 DEBUG:root:New transaction at 12/09/2014 from Laura B to Jon A
 DEBUG:root:Adding 3.11 to balance
 DEBUG:root:Taking 3.11 from balance
-DEBUG:root:Taking 3.11 from balance
-DEBUG:root:Adding 3.11 to balance
-DEBUG:root:Taking 3.11 from balance
-DEBUG:root:Adding 3.11 to balance
-DEBUG:root:Taking 3.11 from balance
-DEBUG:root:Adding 3.11 to balance
-DEBUG:root:Taking 3.11 from balance
-DEBUG:root:Adding 3.11 to balance
-DEBUG:root:Taking 3.11 from balance
-DEBUG:root:Taking 3.11 from balance
-DEBUG:root:Adding 3.11 to balance
-DEBUG:root:Taking 3.11 from balance
-DEBUG:root:Adding 3.11 to balance
-DEBUG:root:Taking 3.11 from balance
-DEBUG:root:Taking 3.11 from balance
-DEBUG:root:Adding 3.11 to balance
-DEBUG:root:Adding 3.11 to balance
-DEBUG:root:Adding 3.11 to balance
-DEBUG:root:Taking 3.11 from balance
-DEBUG:root:Adding 3.11 to balance
-DEBUG:root:Taking 3.11 from balance
-DEBUG:root:Taking 3.11 from balance
-DEBUG:root:Adding 3.11 to balance
-DEBUG:root:Taking 3.11 from balance
-DEBUG:root:Taking 3.11 from balance
-DEBUG:root:Adding 3.11 to balance
-DEBUG:root:Creating account with balance -3.11
-DEBUG:root:Creating account with balance 3.11
 DEBUG:root:New transaction at 16/09/2014 from Gergana I to Rob S
 DEBUG:root:Adding 1.28 to balance
 DEBUG:root:Taking 1.28 from balance
-DEBUG:root:Taking 1.28 from balance
-DEBUG:root:Adding 1.28 to balance
-DEBUG:root:Taking 1.28 from balance
-DEBUG:root:Adding 1.28 to balance
-DEBUG:root:Taking 1.28 from balance
-DEBUG:root:Taking 1.28 from balance
-DEBUG:root:Adding 1.28 to balance
-DEBUG:root:Adding 1.28 to balance
-DEBUG:root:Adding 1.28 to balance
-DEBUG:root:Taking 1.28 from balance
-DEBUG:root:Adding 1.28 to balance
-DEBUG:root:Taking 1.28 from balance
-DEBUG:root:Adding 1.28 to balance
-DEBUG:root:Taking 1.28 from balance
-DEBUG:root:Taking 1.28 from balance
-DEBUG:root:Adding 1.28 to balance
-DEBUG:root:Taking 1.28 from balance
-DEBUG:root:Taking 1.28 from balance
-DEBUG:root:Adding 1.28 to balance
-DEBUG:root:Taking 1.28 from balance
-DEBUG:root:Taking 1.28 from balance
-DEBUG:root:Adding 1.28 to balance
-DEBUG:root:Taking 1.28 from balance
-DEBUG:root:Adding 1.28 to balance
-DEBUG:root:Taking 1.28 from balance
-DEBUG:root:Taking 1.28 from balance
-DEBUG:root:Taking 1.28 from balance
-DEBUG:root:Creating account with balance -1.28
-DEBUG:root:Creating account with balance 1.28
 DEBUG:root:New transaction at 20/09/2014 from Jon A to Ben B
 DEBUG:root:Taking 3.71 from balance
 DEBUG:root:Adding 3.71 to balance
-DEBUG:root:Adding 3.71 to balance
-DEBUG:root:Adding 3.71 to balance
-DEBUG:root:Taking 3.71 from balance
-DEBUG:root:Adding 3.71 to balance
-DEBUG:root:Taking 3.71 from balance
-DEBUG:root:Adding 3.71 to balance
-DEBUG:root:Taking 3.71 from balance
-DEBUG:root:Adding 3.71 to balance
-DEBUG:root:Adding 3.71 to balance
-DEBUG:root:Taking 3.71 from balance
-DEBUG:root:Adding 3.71 to balance
-DEBUG:root:Adding 3.71 to balance
-DEBUG:root:Adding 3.71 to balance
-DEBUG:root:Taking 3.71 from balance
-DEBUG:root:Adding 3.71 to balance
-DEBUG:root:Taking 3.71 from balance
-DEBUG:root:Adding 3.71 to balance
-DEBUG:root:Adding 3.71 to balance
-DEBUG:root:Adding 3.71 to balance
-DEBUG:root:Adding 3.71 to balance
-DEBUG:root:Taking 3.71 from balance
-DEBUG:root:Taking 3.71 from balance
-DEBUG:root:Taking 3.71 from balance
-DEBUG:root:Adding 3.71 to balance
-DEBUG:root:Taking 3.71 from balance
-DEBUG:root:Adding 3.71 to balance
-DEBUG:root:Taking 3.71 from balance
-DEBUG:root:Adding 3.71 to balance
-DEBUG:root:Adding 3.71 to balance
-DEBUG:root:Adding 3.71 to balance
-DEBUG:root:Taking 3.71 from balance
-DEBUG:root:Taking 3.71 from balance
-DEBUG:root:Creating account with balance -3.71
-DEBUG:root:Creating account with balance 3.71
 DEBUG:root:New transaction at 24/09/2014 from Jon A to Laura B
 DEBUG:root:Taking 5.61 from balance
 DEBUG:root:Adding 5.61 to balance
-DEBUG:root:Adding 5.61 to balance
-DEBUG:root:Taking 5.61 from balance
-DEBUG:root:Adding 5.61 to balance
-DEBUG:root:Taking 5.61 from balance
-DEBUG:root:Adding 5.61 to balance
-DEBUG:root:Taking 5.61 from balance
-DEBUG:root:Adding 5.61 to balance
-DEBUG:root:Taking 5.61 from balance
-DEBUG:root:Adding 5.61 to balance
-DEBUG:root:Adding 5.61 to balance
-DEBUG:root:Taking 5.61 from balance
-DEBUG:root:Adding 5.61 to balance
-DEBUG:root:Taking 5.61 from balance
-DEBUG:root:Adding 5.61 to balance
-DEBUG:root:Adding 5.61 to balance
-DEBUG:root:Taking 5.61 from balance
-DEBUG:root:Taking 5.61 from balance
-DEBUG:root:Taking 5.61 from balance
-DEBUG:root:Adding 5.61 to balance
-DEBUG:root:Taking 5.61 from balance
-DEBUG:root:Adding 5.61 to balance
-DEBUG:root:Adding 5.61 to balance
-DEBUG:root:Taking 5.61 from balance
-DEBUG:root:Adding 5.61 to balance
-DEBUG:root:Adding 5.61 to balance
-DEBUG:root:Taking 5.61 from balance
-DEBUG:root:Adding 5.61 to balance
-DEBUG:root:Taking 5.61 from balance
-DEBUG:root:Taking 5.61 from balance
-DEBUG:root:Creating account with balance -5.61
-DEBUG:root:Creating account with balance 5.61
 DEBUG:root:New transaction at 27/09/2014 from Sarah T to Dan W
 DEBUG:root:Taking 11.6 from balance
 DEBUG:root:Adding 11.6 to balance
-DEBUG:root:Taking 11.6 from balance
-DEBUG:root:Taking 11.6 from balance
-DEBUG:root:Taking 11.6 from balance
-DEBUG:root:Taking 11.6 from balance
-DEBUG:root:Taking 11.6 from balance
-DEBUG:root:Adding 11.6 to balance
-DEBUG:root:Taking 11.6 from balance
-DEBUG:root:Adding 11.6 to balance
-DEBUG:root:Adding 11.6 to balance
-DEBUG:root:Adding 11.6 to balance
-DEBUG:root:Taking 11.6 from balance
-DEBUG:root:Taking 11.6 from balance
-DEBUG:root:Adding 11.6 to balance
-DEBUG:root:Taking 11.6 from balance
-DEBUG:root:Adding 11.6 to balance
-DEBUG:root:Taking 11.6 from balance
-DEBUG:root:Adding 11.6 to balance
-DEBUG:root:Adding 11.6 to balance
-DEBUG:root:Adding 11.6 to balance
-DEBUG:root:Taking 11.6 from balance
-DEBUG:root:Adding 11.6 to balance
-DEBUG:root:Taking 11.6 from balance
-DEBUG:root:Taking 11.6 from balance
-DEBUG:root:Adding 11.6 to balance
-DEBUG:root:Adding 11.6 to balance
-DEBUG:root:Creating account with balance -11.6
-DEBUG:root:Creating account with balance 11.6
 DEBUG:root:New transaction at 29/09/2014 from Ben B to Tim L
 DEBUG:root:Adding 3.43 to balance
 DEBUG:root:Taking 3.43 from balance
-DEBUG:root:Taking 3.43 from balance
-DEBUG:root:Taking 3.43 from balance
-DEBUG:root:Adding 3.43 to balance
-DEBUG:root:Taking 3.43 from balance
-DEBUG:root:Taking 3.43 from balance
-DEBUG:root:Adding 3.43 to balance
-DEBUG:root:Adding 3.43 to balance
-DEBUG:root:Taking 3.43 from balance
-DEBUG:root:Taking 3.43 from balance
-DEBUG:root:Taking 3.43 from balance
-DEBUG:root:Taking 3.43 from balance
-DEBUG:root:Adding 3.43 to balance
-DEBUG:root:Adding 3.43 to balance
-DEBUG:root:Taking 3.43 from balance
-DEBUG:root:Adding 3.43 to balance
-DEBUG:root:Adding 3.43 to balance
-DEBUG:root:Taking 3.43 from balance
-DEBUG:root:Adding 3.43 to balance
-DEBUG:root:Taking 3.43 from balance
-DEBUG:root:Adding 3.43 to balance
-DEBUG:root:Taking 3.43 from balance
-DEBUG:root:Adding 3.43 to balance
-DEBUG:root:Taking 3.43 from balance
-DEBUG:root:Adding 3.43 to balance
-DEBUG:root:Taking 3.43 from balance
-DEBUG:root:Adding 3.43 to balance
-DEBUG:root:Taking 3.43 from balance
-DEBUG:root:Adding 3.43 to balance
-DEBUG:root:Taking 3.43 from balance
-DEBUG:root:Adding 3.43 to balance
-DEBUG:root:Adding 3.43 to balance
-DEBUG:root:Taking 3.43 from balance
-DEBUG:root:Taking 3.43 from balance
-DEBUG:root:Adding 3.43 to balance
-DEBUG:root:Taking 3.43 from balance
-DEBUG:root:Adding 3.43 to balance
-DEBUG:root:Taking 3.43 from balance
-DEBUG:root:Creating account with balance -3.43
-DEBUG:root:Creating account with balance 3.43
 DEBUG:root:New transaction at 30/09/2014 from Jon A to Dan W
 DEBUG:root:Taking 9.26 from balance
-DEBUG:root:Taking 9.26 from balance
 DEBUG:root:Adding 9.26 to balance
-DEBUG:root:Taking 9.26 from balance
-DEBUG:root:Taking 9.26 from balance
-DEBUG:root:Adding 9.26 to balance
-DEBUG:root:Taking 9.26 from balance
-DEBUG:root:Adding 9.26 to balance
-DEBUG:root:Adding 9.26 to balance
-DEBUG:root:Taking 9.26 from balance
-DEBUG:root:Adding 9.26 to balance
-DEBUG:root:Taking 9.26 from balance
-DEBUG:root:Adding 9.26 to balance
-DEBUG:root:Adding 9.26 to balance
-DEBUG:root:Taking 9.26 from balance
-DEBUG:root:Adding 9.26 to balance
-DEBUG:root:Taking 9.26 from balance
-DEBUG:root:Adding 9.26 to balance
-DEBUG:root:Adding 9.26 to balance
-DEBUG:root:Taking 9.26 from balance
-DEBUG:root:Adding 9.26 to balance
-DEBUG:root:Taking 9.26 from balance
-DEBUG:root:Taking 9.26 from balance
-DEBUG:root:Taking 9.26 from balance
-DEBUG:root:Adding 9.26 to balance
-DEBUG:root:Adding 9.26 to balance
-DEBUG:root:Taking 9.26 from balance
-DEBUG:root:Taking 9.26 from balance
-DEBUG:root:Taking 9.26 from balance
-DEBUG:root:Adding 9.26 to balance
-DEBUG:root:Creating account with balance -9.26
-DEBUG:root:Creating account with balance 9.26
 DEBUG:root:New transaction at 04/10/2014 from Ben B to Todd
 DEBUG:root:Taking 11.28 from balance
 DEBUG:root:Adding 11.28 to balance
-DEBUG:root:Taking 11.28 from balance
-DEBUG:root:Adding 11.28 to balance
-DEBUG:root:Taking 11.28 from balance
-DEBUG:root:Adding 11.28 to balance
-DEBUG:root:Adding 11.28 to balance
-DEBUG:root:Taking 11.28 from balance
-DEBUG:root:Adding 11.28 to balance
-DEBUG:root:Adding 11.28 to balance
-DEBUG:root:Taking 11.28 from balance
-DEBUG:root:Taking 11.28 from balance
-DEBUG:root:Adding 11.28 to balance
-DEBUG:root:Adding 11.28 to balance
-DEBUG:root:Taking 11.28 from balance
-DEBUG:root:Taking 11.28 from balance
-DEBUG:root:Adding 11.28 to balance
-DEBUG:root:Adding 11.28 to balance
-DEBUG:root:Taking 11.28 from balance
-DEBUG:root:Adding 11.28 to balance
-DEBUG:root:Taking 11.28 from balance
-DEBUG:root:Adding 11.28 to balance
-DEBUG:root:Taking 11.28 from balance
-DEBUG:root:Adding 11.28 to balance
-DEBUG:root:Taking 11.28 from balance
-DEBUG:root:Adding 11.28 to balance
-DEBUG:root:Taking 11.28 from balance
-DEBUG:root:Adding 11.28 to balance
-DEBUG:root:Taking 11.28 from balance
-DEBUG:root:Taking 11.28 from balance
-DEBUG:root:Adding 11.28 to balance
-DEBUG:root:Taking 11.28 from balance
-DEBUG:root:Taking 11.28 from balance
-DEBUG:root:Adding 11.28 to balance
-DEBUG:root:Taking 11.28 from balance
-DEBUG:root:Taking 11.28 from balance
-DEBUG:root:Taking 11.28 from balance
-DEBUG:root:Adding 11.28 to balance
-DEBUG:root:Taking 11.28 from balance
-DEBUG:root:Taking 11.28 from balance
-DEBUG:root:Creating account with balance -11.28
-DEBUG:root:Creating account with balance 11.28
 DEBUG:root:New transaction at 06/10/2014 from Sarah T to Tim L
 DEBUG:root:Taking 7.44 from balance
 DEBUG:root:Adding 7.44 to balance
-DEBUG:root:Taking 7.44 from balance
-DEBUG:root:Adding 7.44 to balance
-DEBUG:root:Taking 7.44 from balance
-DEBUG:root:Taking 7.44 from balance
-DEBUG:root:Adding 7.44 to balance
-DEBUG:root:Taking 7.44 from balance
-DEBUG:root:Adding 7.44 to balance
-DEBUG:root:Taking 7.44 from balance
-DEBUG:root:Taking 7.44 from balance
-DEBUG:root:Adding 7.44 to balance
-DEBUG:root:Adding 7.44 to balance
-DEBUG:root:Taking 7.44 from balance
-DEBUG:root:Adding 7.44 to balance
-DEBUG:root:Adding 7.44 to balance
-DEBUG:root:Taking 7.44 from balance
-DEBUG:root:Adding 7.44 to balance
-DEBUG:root:Adding 7.44 to balance
-DEBUG:root:Adding 7.44 to balance
-DEBUG:root:Taking 7.44 from balance
-DEBUG:root:Adding 7.44 to balance
-DEBUG:root:Taking 7.44 from balance
-DEBUG:root:Adding 7.44 to balance
-DEBUG:root:Taking 7.44 from balance
-DEBUG:root:Taking 7.44 from balance
-DEBUG:root:Adding 7.44 to balance
-DEBUG:root:Adding 7.44 to balance
-DEBUG:root:Taking 7.44 from balance
-DEBUG:root:Adding 7.44 to balance
-DEBUG:root:Adding 7.44 to balance
-DEBUG:root:Adding 7.44 to balance
-DEBUG:root:Taking 7.44 from balance
-DEBUG:root:Adding 7.44 to balance
-DEBUG:root:Creating account with balance -7.44
-DEBUG:root:Creating account with balance 7.44
 DEBUG:root:New transaction at 10/10/2014 from Ben B to Gergana I
 DEBUG:root:Taking 3.98 from balance
 DEBUG:root:Adding 3.98 to balance
-DEBUG:root:Taking 3.98 from balance
-DEBUG:root:Adding 3.98 to balance
-DEBUG:root:Taking 3.98 from balance
-DEBUG:root:Adding 3.98 to balance
-DEBUG:root:Taking 3.98 from balance
-DEBUG:root:Adding 3.98 to balance
-DEBUG:root:Adding 3.98 to balance
-DEBUG:root:Taking 3.98 from balance
-DEBUG:root:Taking 3.98 from balance
-DEBUG:root:Taking 3.98 from balance
-DEBUG:root:Taking 3.98 from balance
-DEBUG:root:Taking 3.98 from balance
-DEBUG:root:Adding 3.98 to balance
-DEBUG:root:Taking 3.98 from balance
-DEBUG:root:Adding 3.98 to balance
-DEBUG:root:Taking 3.98 from balance
-DEBUG:root:Taking 3.98 from balance
-DEBUG:root:Taking 3.98 from balance
-DEBUG:root:Adding 3.98 to balance
-DEBUG:root:Taking 3.98 from balance
-DEBUG:root:Taking 3.98 from balance
-DEBUG:root:Adding 3.98 to balance
-DEBUG:root:Adding 3.98 to balance
-DEBUG:root:Adding 3.98 to balance
-DEBUG:root:Taking 3.98 from balance
-DEBUG:root:Adding 3.98 to balance
-DEBUG:root:Adding 3.98 to balance
-DEBUG:root:Adding 3.98 to balance
-DEBUG:root:Taking 3.98 from balance
-DEBUG:root:Taking 3.98 from balance
-DEBUG:root:Adding 3.98 to balance
-DEBUG:root:Taking 3.98 from balance
-DEBUG:root:Adding 3.98 to balance
-DEBUG:root:Taking 3.98 from balance
-DEBUG:root:Adding 3.98 to balance
-DEBUG:root:Adding 3.98 to balance
-DEBUG:root:Taking 3.98 from balance
-DEBUG:root:Taking 3.98 from balance
-DEBUG:root:Taking 3.98 from balance
-DEBUG:root:Creating account with balance -3.98
-DEBUG:root:Creating account with balance 3.98
 DEBUG:root:New transaction at 14/10/2014 from Ben B to Gergana I
 DEBUG:root:Taking 11.65 from balance
 DEBUG:root:Adding 11.65 to balance
-DEBUG:root:Taking 11.65 from balance
-DEBUG:root:Adding 11.65 to balance
-DEBUG:root:Taking 11.65 from balance
-DEBUG:root:Adding 11.65 to balance
-DEBUG:root:Taking 11.65 from balance
-DEBUG:root:Adding 11.65 to balance
-DEBUG:root:Adding 11.65 to balance
-DEBUG:root:Taking 11.65 from balance
-DEBUG:root:Taking 11.65 from balance
-DEBUG:root:Taking 11.65 from balance
-DEBUG:root:Taking 11.65 from balance
-DEBUG:root:Taking 11.65 from balance
-DEBUG:root:Adding 11.65 to balance
-DEBUG:root:Taking 11.65 from balance
-DEBUG:root:Adding 11.65 to balance
-DEBUG:root:Taking 11.65 from balance
-DEBUG:root:Taking 11.65 from balance
-DEBUG:root:Taking 11.65 from balance
-DEBUG:root:Adding 11.65 to balance
-DEBUG:root:Taking 11.65 from balance
-DEBUG:root:Taking 11.65 from balance
-DEBUG:root:Adding 11.65 to balance
-DEBUG:root:Adding 11.65 to balance
-DEBUG:root:Adding 11.65 to balance
-DEBUG:root:Taking 11.65 from balance
-DEBUG:root:Adding 11.65 to balance
-DEBUG:root:Adding 11.65 to balance
-DEBUG:root:Adding 11.65 to balance
-DEBUG:root:Taking 11.65 from balance
-DEBUG:root:Taking 11.65 from balance
-DEBUG:root:Adding 11.65 to balance
-DEBUG:root:Taking 11.65 from balance
-DEBUG:root:Adding 11.65 to balance
-DEBUG:root:Taking 11.65 from balance
-DEBUG:root:Adding 11.65 to balance
-DEBUG:root:Adding 11.65 to balance
-DEBUG:root:Taking 11.65 from balance
-DEBUG:root:Taking 11.65 from balance
-DEBUG:root:Taking 11.65 from balance
-DEBUG:root:Taking 11.65 from balance
-DEBUG:root:Adding 11.65 to balance
-DEBUG:root:Creating account with balance -11.65
 DEBUG:root:New transaction at 18/10/2014 from Gergana I to Rob S
 DEBUG:root:Adding 5.47 to balance
 DEBUG:root:Taking 5.47 from balance
-DEBUG:root:Taking 5.47 from balance
-DEBUG:root:Adding 5.47 to balance
-DEBUG:root:Taking 5.47 from balance
-DEBUG:root:Adding 5.47 to balance
-DEBUG:root:Taking 5.47 from balance
-DEBUG:root:Taking 5.47 from balance
-DEBUG:root:Adding 5.47 to balance
-DEBUG:root:Adding 5.47 to balance
-DEBUG:root:Adding 5.47 to balance
-DEBUG:root:Taking 5.47 from balance
-DEBUG:root:Adding 5.47 to balance
-DEBUG:root:Taking 5.47 from balance
-DEBUG:root:Adding 5.47 to balance
-DEBUG:root:Taking 5.47 from balance
-DEBUG:root:Taking 5.47 from balance
-DEBUG:root:Adding 5.47 to balance
-DEBUG:root:Taking 5.47 from balance
-DEBUG:root:Taking 5.47 from balance
-DEBUG:root:Adding 5.47 to balance
-DEBUG:root:Taking 5.47 from balance
-DEBUG:root:Taking 5.47 from balance
-DEBUG:root:Adding 5.47 to balance
-DEBUG:root:Taking 5.47 from balance
-DEBUG:root:Adding 5.47 to balance
-DEBUG:root:Taking 5.47 from balance
-DEBUG:root:Taking 5.47 from balance
-DEBUG:root:Taking 5.47 from balance
-DEBUG:root:Taking 5.47 from balance
-DEBUG:root:Adding 5.47 to balance
-DEBUG:root:Taking 5.47 from balance
-DEBUG:root:Creating account with balance -5.47
-DEBUG:root:Creating account with balance 5.47
 DEBUG:root:New transaction at 19/10/2014 from Dan W to Sam N
 DEBUG:root:Adding 8 to balance
-DEBUG:root:Adding 8 to balance
-DEBUG:root:Adding 8 to balance
-DEBUG:root:Adding 8 to balance
-DEBUG:root:Adding 8 to balance
 DEBUG:root:Taking 8 from balance
-DEBUG:root:Adding 8 to balance
-DEBUG:root:Adding 8 to balance
-DEBUG:root:Adding 8 to balance
-DEBUG:root:Taking 8 from balance
-DEBUG:root:Adding 8 to balance
-DEBUG:root:Adding 8 to balance
-DEBUG:root:Adding 8 to balance
-DEBUG:root:Taking 8 from balance
-DEBUG:root:Taking 8 from balance
-DEBUG:root:Taking 8 from balance
-DEBUG:root:Adding 8 to balance
-DEBUG:root:Taking 8 from balance
-DEBUG:root:Adding 8 to balance
-DEBUG:root:Taking 8 from balance
-DEBUG:root:Taking 8 from balance
-DEBUG:root:Adding 8 to balance
-DEBUG:root:Taking 8 from balance
-DEBUG:root:Taking 8 from balance
-DEBUG:root:Adding 8 to balance
-DEBUG:root:Taking 8 from balance
-DEBUG:root:Adding 8 to balance
-DEBUG:root:Adding 8 to balance
-DEBUG:root:Adding 8 to balance
-DEBUG:root:Taking 8 from balance
-DEBUG:root:Taking 8 from balance
-DEBUG:root:Taking 8 from balance
-DEBUG:root:Taking 8 from balance
-DEBUG:root:Creating account with balance -8
-DEBUG:root:Creating account with balance 8
 DEBUG:root:New transaction at 22/10/2014 from Dan W to Sam N
 DEBUG:root:Adding 0.55 to balance
-DEBUG:root:Adding 0.55 to balance
-DEBUG:root:Adding 0.55 to balance
-DEBUG:root:Adding 0.55 to balance
-DEBUG:root:Adding 0.55 to balance
 DEBUG:root:Taking 0.55 from balance
-DEBUG:root:Adding 0.55 to balance
-DEBUG:root:Adding 0.55 to balance
-DEBUG:root:Adding 0.55 to balance
-DEBUG:root:Taking 0.55 from balance
-DEBUG:root:Adding 0.55 to balance
-DEBUG:root:Adding 0.55 to balance
-DEBUG:root:Adding 0.55 to balance
-DEBUG:root:Taking 0.55 from balance
-DEBUG:root:Taking 0.55 from balance
-DEBUG:root:Taking 0.55 from balance
-DEBUG:root:Adding 0.55 to balance
-DEBUG:root:Taking 0.55 from balance
-DEBUG:root:Adding 0.55 to balance
-DEBUG:root:Taking 0.55 from balance
-DEBUG:root:Taking 0.55 from balance
-DEBUG:root:Adding 0.55 to balance
-DEBUG:root:Taking 0.55 from balance
-DEBUG:root:Taking 0.55 from balance
-DEBUG:root:Adding 0.55 to balance
-DEBUG:root:Taking 0.55 from balance
-DEBUG:root:Adding 0.55 to balance
-DEBUG:root:Adding 0.55 to balance
-DEBUG:root:Adding 0.55 to balance
-DEBUG:root:Taking 0.55 from balance
-DEBUG:root:Taking 0.55 from balance
-DEBUG:root:Taking 0.55 from balance
-DEBUG:root:Taking 0.55 from balance
-DEBUG:root:Taking 0.55 from balance
-DEBUG:root:Adding 0.55 to balance
-DEBUG:root:Creating account with balance -0.55
 DEBUG:root:New transaction at 23/10/2014 from Jon A to Dan W
 DEBUG:root:Taking 2.37 from balance
-DEBUG:root:Taking 2.37 from balance
 DEBUG:root:Adding 2.37 to balance
-DEBUG:root:Taking 2.37 from balance
-DEBUG:root:Taking 2.37 from balance
-DEBUG:root:Adding 2.37 to balance
-DEBUG:root:Taking 2.37 from balance
-DEBUG:root:Adding 2.37 to balance
-DEBUG:root:Adding 2.37 to balance
-DEBUG:root:Taking 2.37 from balance
-DEBUG:root:Adding 2.37 to balance
-DEBUG:root:Taking 2.37 from balance
-DEBUG:root:Adding 2.37 to balance
-DEBUG:root:Adding 2.37 to balance
-DEBUG:root:Taking 2.37 from balance
-DEBUG:root:Adding 2.37 to balance
-DEBUG:root:Taking 2.37 from balance
-DEBUG:root:Adding 2.37 to balance
-DEBUG:root:Adding 2.37 to balance
-DEBUG:root:Taking 2.37 from balance
-DEBUG:root:Adding 2.37 to balance
-DEBUG:root:Taking 2.37 from balance
-DEBUG:root:Taking 2.37 from balance
-DEBUG:root:Taking 2.37 from balance
-DEBUG:root:Adding 2.37 to balance
-DEBUG:root:Adding 2.37 to balance
-DEBUG:root:Taking 2.37 from balance
-DEBUG:root:Taking 2.37 from balance
-DEBUG:root:Taking 2.37 from balance
-DEBUG:root:Adding 2.37 to balance
-DEBUG:root:Taking 2.37 from balance
-DEBUG:root:Adding 2.37 to balance
-DEBUG:root:Adding 2.37 to balance
-DEBUG:root:Adding 2.37 to balance
-DEBUG:root:Creating account with balance -2.37
 DEBUG:root:New transaction at 25/10/2014 from Laura B to Todd
 DEBUG:root:Taking 8.42 from balance
-DEBUG:root:Taking 8.42 from balance
 DEBUG:root:Adding 8.42 to balance
-DEBUG:root:Adding 8.42 to balance
-DEBUG:root:Adding 8.42 to balance
-DEBUG:root:Taking 8.42 from balance
-DEBUG:root:Adding 8.42 to balance
-DEBUG:root:Adding 8.42 to balance
-DEBUG:root:Taking 8.42 from balance
-DEBUG:root:Adding 8.42 to balance
-DEBUG:root:Adding 8.42 to balance
-DEBUG:root:Taking 8.42 from balance
-DEBUG:root:Adding 8.42 to balance
-DEBUG:root:Adding 8.42 to balance
-DEBUG:root:Adding 8.42 to balance
-DEBUG:root:Taking 8.42 from balance
-DEBUG:root:Adding 8.42 to balance
-DEBUG:root:Taking 8.42 from balance
-DEBUG:root:Taking 8.42 from balance
-DEBUG:root:Adding 8.42 to balance
-DEBUG:root:Adding 8.42 to balance
-DEBUG:root:Taking 8.42 from balance
-DEBUG:root:Adding 8.42 to balance
-DEBUG:root:Adding 8.42 to balance
-DEBUG:root:Adding 8.42 to balance
-DEBUG:root:Taking 8.42 from balance
-DEBUG:root:Taking 8.42 from balance
-DEBUG:root:Taking 8.42 from balance
-DEBUG:root:Taking 8.42 from balance
-DEBUG:root:Adding 8.42 to balance
-DEBUG:root:Taking 8.42 from balance
-DEBUG:root:Taking 8.42 from balance
-DEBUG:root:Adding 8.42 to balance
-DEBUG:root:Taking 8.42 from balance
-DEBUG:root:Taking 8.42 from balance
-DEBUG:root:Adding 8.42 to balance
-DEBUG:root:Creating account with balance -8.42
-DEBUG:root:Creating account with balance 8.42
 DEBUG:root:New transaction at 28/10/2014 from Gergana I to Dan W
 DEBUG:root:Taking 5.04 from balance
-DEBUG:root:Taking 5.04 from balance
 DEBUG:root:Adding 5.04 to balance
-DEBUG:root:Taking 5.04 from balance
-DEBUG:root:Taking 5.04 from balance
-DEBUG:root:Taking 5.04 from balance
-DEBUG:root:Adding 5.04 to balance
-DEBUG:root:Taking 5.04 from balance
-DEBUG:root:Adding 5.04 to balance
-DEBUG:root:Adding 5.04 to balance
-DEBUG:root:Taking 5.04 from balance
-DEBUG:root:Adding 5.04 to balance
-DEBUG:root:Adding 5.04 to balance
-DEBUG:root:Taking 5.04 from balance
-DEBUG:root:Adding 5.04 to balance
-DEBUG:root:Taking 5.04 from balance
-DEBUG:root:Adding 5.04 to balance
-DEBUG:root:Adding 5.04 to balance
-DEBUG:root:Adding 5.04 to balance
-DEBUG:root:Taking 5.04 from balance
-DEBUG:root:Adding 5.04 to balance
-DEBUG:root:Taking 5.04 from balance
-DEBUG:root:Taking 5.04 from balance
-DEBUG:root:Taking 5.04 from balance
-DEBUG:root:Taking 5.04 from balance
-DEBUG:root:Taking 5.04 from balance
-DEBUG:root:Taking 5.04 from balance
-DEBUG:root:Taking 5.04 from balance
-DEBUG:root:Adding 5.04 to balance
-DEBUG:root:Adding 5.04 to balance
-DEBUG:root:Taking 5.04 from balance
-DEBUG:root:Adding 5.04 to balance
-DEBUG:root:Adding 5.04 to balance
-DEBUG:root:Taking 5.04 from balance
-DEBUG:root:Taking 5.04 from balance
-DEBUG:root:Adding 5.04 to balance
-DEBUG:root:Adding 5.04 to balance
-DEBUG:root:Creating account with balance -5.04
-DEBUG:root:Creating account with balance 5.04
 DEBUG:root:New transaction at 29/10/2014 from Dan W to Ben B
 DEBUG:root:Adding 5.87 to balance
-DEBUG:root:Adding 5.87 to balance
-DEBUG:root:Adding 5.87 to balance
 DEBUG:root:Taking 5.87 from balance
-DEBUG:root:Adding 5.87 to balance
-DEBUG:root:Adding 5.87 to balance
-DEBUG:root:Adding 5.87 to balance
-DEBUG:root:Taking 5.87 from balance
-DEBUG:root:Adding 5.87 to balance
-DEBUG:root:Adding 5.87 to balance
-DEBUG:root:Adding 5.87 to balance
-DEBUG:root:Taking 5.87 from balance
-DEBUG:root:Taking 5.87 from balance
-DEBUG:root:Adding 5.87 to balance
-DEBUG:root:Taking 5.87 from balance
-DEBUG:root:Adding 5.87 to balance
-DEBUG:root:Adding 5.87 to balance
-DEBUG:root:Adding 5.87 to balance
-DEBUG:root:Taking 5.87 from balance
-DEBUG:root:Taking 5.87 from balance
-DEBUG:root:Adding 5.87 to balance
-DEBUG:root:Adding 5.87 to balance
-DEBUG:root:Taking 5.87 from balance
-DEBUG:root:Taking 5.87 from balance
-DEBUG:root:Taking 5.87 from balance
-DEBUG:root:Taking 5.87 from balance
-DEBUG:root:Adding 5.87 to balance
-DEBUG:root:Adding 5.87 to balance
-DEBUG:root:Adding 5.87 to balance
-DEBUG:root:Adding 5.87 to balance
-DEBUG:root:Adding 5.87 to balance
-DEBUG:root:Taking 5.87 from balance
-DEBUG:root:Taking 5.87 from balance
-DEBUG:root:Adding 5.87 to balance
-DEBUG:root:Taking 5.87 from balance
-DEBUG:root:Adding 5.87 to balance
-DEBUG:root:Taking 5.87 from balance
-DEBUG:root:Adding 5.87 to balance
-DEBUG:root:Adding 5.87 to balance
-DEBUG:root:Adding 5.87 to balance
-DEBUG:root:Taking 5.87 from balance
-DEBUG:root:Taking 5.87 from balance
-DEBUG:root:Taking 5.87 from balance
-DEBUG:root:Creating account with balance 5.87
 DEBUG:root:New transaction at 30/10/2014 from Chris W to Gergana I
 DEBUG:root:Adding 8.9 to balance
-DEBUG:root:Adding 8.9 to balance
 DEBUG:root:Taking 8.9 from balance
-DEBUG:root:Adding 8.9 to balance
-DEBUG:root:Adding 8.9 to balance
-DEBUG:root:Adding 8.9 to balance
-DEBUG:root:Adding 8.9 to balance
-DEBUG:root:Adding 8.9 to balance
-DEBUG:root:Taking 8.9 from balance
-DEBUG:root:Adding 8.9 to balance
-DEBUG:root:Taking 8.9 from balance
-DEBUG:root:Taking 8.9 from balance
-DEBUG:root:Adding 8.9 to balance
-DEBUG:root:Taking 8.9 from balance
-DEBUG:root:Adding 8.9 to balance
-DEBUG:root:Adding 8.9 to balance
-DEBUG:root:Adding 8.9 to balance
-DEBUG:root:Taking 8.9 from balance
-DEBUG:root:Adding 8.9 to balance
-DEBUG:root:Adding 8.9 to balance
-DEBUG:root:Taking 8.9 from balance
-DEBUG:root:Adding 8.9 to balance
-DEBUG:root:Taking 8.9 from balance
-DEBUG:root:Adding 8.9 to balance
-DEBUG:root:Taking 8.9 from balance
-DEBUG:root:Adding 8.9 to balance
-DEBUG:root:Adding 8.9 to balance
-DEBUG:root:Adding 8.9 to balance
-DEBUG:root:Adding 8.9 to balance
-DEBUG:root:Adding 8.9 to balance
-DEBUG:root:Creating account with balance -8.9
-DEBUG:root:Creating account with balance 8.9
 DEBUG:root:New transaction at 02/11/2014 from Sarah T to Tim L
 DEBUG:root:Taking 4.67 from balance
 DEBUG:root:Adding 4.67 to balance
-DEBUG:root:Taking 4.67 from balance
-DEBUG:root:Adding 4.67 to balance
-DEBUG:root:Taking 4.67 from balance
-DEBUG:root:Taking 4.67 from balance
-DEBUG:root:Adding 4.67 to balance
-DEBUG:root:Taking 4.67 from balance
-DEBUG:root:Adding 4.67 to balance
-DEBUG:root:Taking 4.67 from balance
-DEBUG:root:Taking 4.67 from balance
-DEBUG:root:Adding 4.67 to balance
-DEBUG:root:Adding 4.67 to balance
-DEBUG:root:Taking 4.67 from balance
-DEBUG:root:Adding 4.67 to balance
-DEBUG:root:Adding 4.67 to balance
-DEBUG:root:Taking 4.67 from balance
-DEBUG:root:Adding 4.67 to balance
-DEBUG:root:Adding 4.67 to balance
-DEBUG:root:Adding 4.67 to balance
-DEBUG:root:Taking 4.67 from balance
-DEBUG:root:Adding 4.67 to balance
-DEBUG:root:Taking 4.67 from balance
-DEBUG:root:Adding 4.67 to balance
-DEBUG:root:Taking 4.67 from balance
-DEBUG:root:Taking 4.67 from balance
-DEBUG:root:Adding 4.67 to balance
-DEBUG:root:Adding 4.67 to balance
-DEBUG:root:Taking 4.67 from balance
-DEBUG:root:Adding 4.67 to balance
-DEBUG:root:Adding 4.67 to balance
-DEBUG:root:Adding 4.67 to balance
-DEBUG:root:Taking 4.67 from balance
-DEBUG:root:Adding 4.67 to balance
-DEBUG:root:Taking 4.67 from balance
-DEBUG:root:Adding 4.67 to balance
-DEBUG:root:Creating account with balance -4.67
-DEBUG:root:Creating account with balance 4.67
 DEBUG:root:New transaction at 04/11/2014 from Chris W to Rob S
 DEBUG:root:Adding 6.15 to balance
 DEBUG:root:Taking 6.15 from balance
-DEBUG:root:Adding 6.15 to balance
-DEBUG:root:Adding 6.15 to balance
-DEBUG:root:Adding 6.15 to balance
-DEBUG:root:Adding 6.15 to balance
-DEBUG:root:Adding 6.15 to balance
-DEBUG:root:Adding 6.15 to balance
-DEBUG:root:Taking 6.15 from balance
-DEBUG:root:Adding 6.15 to balance
-DEBUG:root:Taking 6.15 from balance
-DEBUG:root:Taking 6.15 from balance
-DEBUG:root:Taking 6.15 from balance
-DEBUG:root:Adding 6.15 to balance
-DEBUG:root:Adding 6.15 to balance
-DEBUG:root:Taking 6.15 from balance
-DEBUG:root:Adding 6.15 to balance
-DEBUG:root:Adding 6.15 to balance
-DEBUG:root:Taking 6.15 from balance
-DEBUG:root:Taking 6.15 from balance
-DEBUG:root:Taking 6.15 from balance
-DEBUG:root:Adding 6.15 to balance
-DEBUG:root:Adding 6.15 to balance
-DEBUG:root:Taking 6.15 from balance
-DEBUG:root:Creating account with balance -6.15
-DEBUG:root:Creating account with balance 6.15
 DEBUG:root:New transaction at 07/11/2014 from Rob S to Ben B
 DEBUG:root:Taking 3 from balance
 DEBUG:root:Adding 3 to balance
-DEBUG:root:Adding 3 to balance
-DEBUG:root:Adding 3 to balance
-DEBUG:root:Taking 3 from balance
-DEBUG:root:Taking 3 from balance
-DEBUG:root:Adding 3 to balance
-DEBUG:root:Adding 3 to balance
-DEBUG:root:Taking 3 from balance
-DEBUG:root:Adding 3 to balance
-DEBUG:root:Adding 3 to balance
-DEBUG:root:Adding 3 to balance
-DEBUG:root:Taking 3 from balance
-DEBUG:root:Taking 3 from balance
-DEBUG:root:Adding 3 to balance
-DEBUG:root:Taking 3 from balance
-DEBUG:root:Adding 3 to balance
-DEBUG:root:Adding 3 to balance
-DEBUG:root:Taking 3 from balance
-DEBUG:root:Adding 3 to balance
-DEBUG:root:Adding 3 to balance
-DEBUG:root:Adding 3 to balance
-DEBUG:root:Adding 3 to balance
-DEBUG:root:Taking 3 from balance
-DEBUG:root:Adding 3 to balance
-DEBUG:root:Taking 3 from balance
-DEBUG:root:Taking 3 from balance
-DEBUG:root:Adding 3 to balance
-DEBUG:root:Taking 3 from balance
-DEBUG:root:Adding 3 to balance
-DEBUG:root:Adding 3 to balance
-DEBUG:root:Adding 3 to balance
-DEBUG:root:Taking 3 from balance
-DEBUG:root:Adding 3 to balance
-DEBUG:root:Adding 3 to balance
-DEBUG:root:Adding 3 to balance
-DEBUG:root:Adding 3 to balance
-DEBUG:root:Adding 3 to balance
-DEBUG:root:Taking 3 from balance
-DEBUG:root:Adding 3 to balance
-DEBUG:root:Taking 3 from balance
-DEBUG:root:Creating account with balance 3
 DEBUG:root:New transaction at 09/11/2014 from Sam N to Laura B
 DEBUG:root:Adding 7.76 to balance
 DEBUG:root:Taking 7.76 from balance
-DEBUG:root:Taking 7.76 from balance
-DEBUG:root:Adding 7.76 to balance
-DEBUG:root:Taking 7.76 from balance
-DEBUG:root:Taking 7.76 from balance
-DEBUG:root:Taking 7.76 from balance
-DEBUG:root:Adding 7.76 to balance
-DEBUG:root:Taking 7.76 from balance
-DEBUG:root:Taking 7.76 from balance
-DEBUG:root:Adding 7.76 to balance
-DEBUG:root:Taking 7.76 from balance
-DEBUG:root:Adding 7.76 to balance
-DEBUG:root:Taking 7.76 from balance
-DEBUG:root:Taking 7.76 from balance
-DEBUG:root:Adding 7.76 to balance
-DEBUG:root:Taking 7.76 from balance
-DEBUG:root:Adding 7.76 to balance
-DEBUG:root:Adding 7.76 to balance
-DEBUG:root:Taking 7.76 from balance
-DEBUG:root:Adding 7.76 to balance
-DEBUG:root:Taking 7.76 from balance
-DEBUG:root:Adding 7.76 to balance
-DEBUG:root:Taking 7.76 from balance
-DEBUG:root:Taking 7.76 from balance
-DEBUG:root:Adding 7.76 to balance
-DEBUG:root:Taking 7.76 from balance
-DEBUG:root:Adding 7.76 to balance
-DEBUG:root:Adding 7.76 to balance
-DEBUG:root:Taking 7.76 from balance
-DEBUG:root:Adding 7.76 to balance
-DEBUG:root:Adding 7.76 to balance
-DEBUG:root:Taking 7.76 from balance
-DEBUG:root:Adding 7.76 to balance
-DEBUG:root:Adding 7.76 to balance
-DEBUG:root:Taking 7.76 from balance
-DEBUG:root:Adding 7.76 to balance
-DEBUG:root:Creating account with balance -7.76
-DEBUG:root:Creating account with balance 7.76
 DEBUG:root:New transaction at 11/11/2014 from Jon A to Ben B
 DEBUG:root:Taking 0.73 from balance
 DEBUG:root:Adding 0.73 to balance
-DEBUG:root:Adding 0.73 to balance
-DEBUG:root:Adding 0.73 to balance
-DEBUG:root:Taking 0.73 from balance
-DEBUG:root:Adding 0.73 to balance
-DEBUG:root:Taking 0.73 from balance
-DEBUG:root:Adding 0.73 to balance
-DEBUG:root:Taking 0.73 from balance
-DEBUG:root:Adding 0.73 to balance
-DEBUG:root:Adding 0.73 to balance
-DEBUG:root:Taking 0.73 from balance
-DEBUG:root:Adding 0.73 to balance
-DEBUG:root:Adding 0.73 to balance
-DEBUG:root:Adding 0.73 to balance
-DEBUG:root:Taking 0.73 from balance
-DEBUG:root:Adding 0.73 to balance
-DEBUG:root:Taking 0.73 from balance
-DEBUG:root:Adding 0.73 to balance
-DEBUG:root:Adding 0.73 to balance
-DEBUG:root:Adding 0.73 to balance
-DEBUG:root:Adding 0.73 to balance
-DEBUG:root:Taking 0.73 from balance
-DEBUG:root:Taking 0.73 from balance
-DEBUG:root:Taking 0.73 from balance
-DEBUG:root:Adding 0.73 to balance
-DEBUG:root:Taking 0.73 from balance
-DEBUG:root:Adding 0.73 to balance
-DEBUG:root:Taking 0.73 from balance
-DEBUG:root:Adding 0.73 to balance
-DEBUG:root:Adding 0.73 to balance
-DEBUG:root:Adding 0.73 to balance
-DEBUG:root:Taking 0.73 from balance
-DEBUG:root:Taking 0.73 from balance
-DEBUG:root:Taking 0.73 from balance
-DEBUG:root:Adding 0.73 to balance
-DEBUG:root:Taking 0.73 from balance
-DEBUG:root:Adding 0.73 to balance
-DEBUG:root:Taking 0.73 from balance
-DEBUG:root:Adding 0.73 to balance
-DEBUG:root:Adding 0.73 to balance
-DEBUG:root:Adding 0.73 to balance
-DEBUG:root:Taking 0.73 from balance
-DEBUG:root:Adding 0.73 to balance
-DEBUG:root:Adding 0.73 to balance
-DEBUG:root:Creating account with balance -0.73
-DEBUG:root:Creating account with balance 0.73
 DEBUG:root:New transaction at 14/11/2014 from Sam N to Dan W
 DEBUG:root:Taking 0.8 from balance
-DEBUG:root:Taking 0.8 from balance
-DEBUG:root:Taking 0.8 from balance
-DEBUG:root:Taking 0.8 from balance
-DEBUG:root:Taking 0.8 from balance
 DEBUG:root:Adding 0.8 to balance
-DEBUG:root:Taking 0.8 from balance
-DEBUG:root:Taking 0.8 from balance
-DEBUG:root:Taking 0.8 from balance
-DEBUG:root:Adding 0.8 to balance
-DEBUG:root:Taking 0.8 from balance
-DEBUG:root:Taking 0.8 from balance
-DEBUG:root:Taking 0.8 from balance
-DEBUG:root:Adding 0.8 to balance
-DEBUG:root:Adding 0.8 to balance
-DEBUG:root:Adding 0.8 to balance
-DEBUG:root:Taking 0.8 from balance
-DEBUG:root:Adding 0.8 to balance
-DEBUG:root:Taking 0.8 from balance
-DEBUG:root:Adding 0.8 to balance
-DEBUG:root:Adding 0.8 to balance
-DEBUG:root:Taking 0.8 from balance
-DEBUG:root:Adding 0.8 to balance
-DEBUG:root:Adding 0.8 to balance
-DEBUG:root:Taking 0.8 from balance
-DEBUG:root:Adding 0.8 to balance
-DEBUG:root:Taking 0.8 from balance
-DEBUG:root:Taking 0.8 from balance
-DEBUG:root:Taking 0.8 from balance
-DEBUG:root:Adding 0.8 to balance
-DEBUG:root:Adding 0.8 to balance
-DEBUG:root:Adding 0.8 to balance
-DEBUG:root:Adding 0.8 to balance
-DEBUG:root:Adding 0.8 to balance
-DEBUG:root:Taking 0.8 from balance
-DEBUG:root:Adding 0.8 to balance
-DEBUG:root:Adding 0.8 to balance
-DEBUG:root:Taking 0.8 from balance
-DEBUG:root:Creating account with balance -0.8
-DEBUG:root:Creating account with balance 0.8
 DEBUG:root:New transaction at 18/11/2014 from Sam N to Chris W
 DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Taking 6.44 from balance
 DEBUG:root:Adding 6.44 to balance
-DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Adding 6.44 to balance
-DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Adding 6.44 to balance
-DEBUG:root:Adding 6.44 to balance
-DEBUG:root:Adding 6.44 to balance
-DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Adding 6.44 to balance
-DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Adding 6.44 to balance
-DEBUG:root:Adding 6.44 to balance
-DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Adding 6.44 to balance
-DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Adding 6.44 to balance
-DEBUG:root:Adding 6.44 to balance
-DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Taking 6.44 from balance
-DEBUG:root:Creating account with balance -6.44
-DEBUG:root:Creating account with balance 6.44
 DEBUG:root:New transaction at 19/11/2014 from Laura B to Jon A
 DEBUG:root:Adding 2.61 to balance
 DEBUG:root:Taking 2.61 from balance
-DEBUG:root:Taking 2.61 from balance
-DEBUG:root:Adding 2.61 to balance
-DEBUG:root:Taking 2.61 from balance
-DEBUG:root:Adding 2.61 to balance
-DEBUG:root:Taking 2.61 from balance
-DEBUG:root:Adding 2.61 to balance
-DEBUG:root:Taking 2.61 from balance
-DEBUG:root:Adding 2.61 to balance
-DEBUG:root:Taking 2.61 from balance
-DEBUG:root:Taking 2.61 from balance
-DEBUG:root:Adding 2.61 to balance
-DEBUG:root:Taking 2.61 from balance
-DEBUG:root:Adding 2.61 to balance
-DEBUG:root:Taking 2.61 from balance
-DEBUG:root:Taking 2.61 from balance
-DEBUG:root:Adding 2.61 to balance
-DEBUG:root:Adding 2.61 to balance
-DEBUG:root:Adding 2.61 to balance
-DEBUG:root:Taking 2.61 from balance
-DEBUG:root:Adding 2.61 to balance
-DEBUG:root:Taking 2.61 from balance
-DEBUG:root:Taking 2.61 from balance
-DEBUG:root:Adding 2.61 to balance
-DEBUG:root:Taking 2.61 from balance
-DEBUG:root:Taking 2.61 from balance
-DEBUG:root:Adding 2.61 to balance
-DEBUG:root:Taking 2.61 from balance
-DEBUG:root:Adding 2.61 to balance
-DEBUG:root:Adding 2.61 to balance
-DEBUG:root:Adding 2.61 to balance
-DEBUG:root:Taking 2.61 from balance
-DEBUG:root:Adding 2.61 to balance
-DEBUG:root:Adding 2.61 to balance
-DEBUG:root:Taking 2.61 from balance
-DEBUG:root:Taking 2.61 from balance
-DEBUG:root:Adding 2.61 to balance
-DEBUG:root:Creating account with balance -2.61
-DEBUG:root:Creating account with balance 2.61
 DEBUG:root:New transaction at 21/11/2014 from Chris W to Todd
 DEBUG:root:Adding 1.42 to balance
-DEBUG:root:Adding 1.42 to balance
 DEBUG:root:Taking 1.42 from balance
-DEBUG:root:Adding 1.42 to balance
-DEBUG:root:Adding 1.42 to balance
-DEBUG:root:Adding 1.42 to balance
-DEBUG:root:Adding 1.42 to balance
-DEBUG:root:Adding 1.42 to balance
-DEBUG:root:Adding 1.42 to balance
-DEBUG:root:Adding 1.42 to balance
-DEBUG:root:Adding 1.42 to balance
-DEBUG:root:Adding 1.42 to balance
-DEBUG:root:Taking 1.42 from balance
-DEBUG:root:Adding 1.42 to balance
-DEBUG:root:Adding 1.42 to balance
-DEBUG:root:Adding 1.42 to balance
-DEBUG:root:Adding 1.42 to balance
-DEBUG:root:Taking 1.42 from balance
-DEBUG:root:Taking 1.42 from balance
-DEBUG:root:Adding 1.42 to balance
-DEBUG:root:Taking 1.42 from balance
-DEBUG:root:Taking 1.42 from balance
-DEBUG:root:Adding 1.42 to balance
-DEBUG:root:Taking 1.42 from balance
-DEBUG:root:Taking 1.42 from balance
-DEBUG:root:Taking 1.42 from balance
-DEBUG:root:Adding 1.42 to balance
-DEBUG:root:Adding 1.42 to balance
-DEBUG:root:Adding 1.42 to balance
-DEBUG:root:Taking 1.42 from balance
-DEBUG:root:Taking 1.42 from balance
-DEBUG:root:Taking 1.42 from balance
-DEBUG:root:Creating account with balance -1.42
-DEBUG:root:Creating account with balance 1.42
 DEBUG:root:New transaction at 23/11/2014 from Todd to Sarah T
 DEBUG:root:Adding 2.24 to balance
 DEBUG:root:Taking 2.24 from balance
-DEBUG:root:Taking 2.24 from balance
-DEBUG:root:Taking 2.24 from balance
-DEBUG:root:Adding 2.24 to balance
-DEBUG:root:Taking 2.24 from balance
-DEBUG:root:Taking 2.24 from balance
-DEBUG:root:Taking 2.24 from balance
-DEBUG:root:Adding 2.24 to balance
-DEBUG:root:Adding 2.24 to balance
-DEBUG:root:Adding 2.24 to balance
-DEBUG:root:Taking 2.24 from balance
-DEBUG:root:Adding 2.24 to balance
-DEBUG:root:Taking 2.24 from balance
-DEBUG:root:Taking 2.24 from balance
-DEBUG:root:Adding 2.24 to balance
-DEBUG:root:Taking 2.24 from balance
-DEBUG:root:Taking 2.24 from balance
-DEBUG:root:Adding 2.24 to balance
-DEBUG:root:Taking 2.24 from balance
-DEBUG:root:Adding 2.24 to balance
-DEBUG:root:Taking 2.24 from balance
-DEBUG:root:Taking 2.24 from balance
-DEBUG:root:Adding 2.24 to balance
-DEBUG:root:Taking 2.24 from balance
-DEBUG:root:Taking 2.24 from balance
-DEBUG:root:Adding 2.24 to balance
-DEBUG:root:Adding 2.24 to balance
-DEBUG:root:Adding 2.24 to balance
-DEBUG:root:Adding 2.24 to balance
-DEBUG:root:Taking 2.24 from balance
-DEBUG:root:Taking 2.24 from balance
-DEBUG:root:Adding 2.24 to balance
-DEBUG:root:Taking 2.24 from balance
-DEBUG:root:Adding 2.24 to balance
-DEBUG:root:Taking 2.24 from balance
-DEBUG:root:Adding 2.24 to balance
-DEBUG:root:Taking 2.24 from balance
-DEBUG:root:Creating account with balance 2.24
 DEBUG:root:New transaction at 25/11/2014 from Chris W to Rob S
 DEBUG:root:Adding 5.76 to balance
 DEBUG:root:Taking 5.76 from balance
-DEBUG:root:Adding 5.76 to balance
-DEBUG:root:Adding 5.76 to balance
-DEBUG:root:Adding 5.76 to balance
-DEBUG:root:Adding 5.76 to balance
-DEBUG:root:Adding 5.76 to balance
-DEBUG:root:Adding 5.76 to balance
-DEBUG:root:Taking 5.76 from balance
-DEBUG:root:Adding 5.76 to balance
-DEBUG:root:Taking 5.76 from balance
-DEBUG:root:Taking 5.76 from balance
-DEBUG:root:Taking 5.76 from balance
-DEBUG:root:Adding 5.76 to balance
-DEBUG:root:Adding 5.76 to balance
-DEBUG:root:Taking 5.76 from balance
-DEBUG:root:Adding 5.76 to balance
-DEBUG:root:Adding 5.76 to balance
-DEBUG:root:Taking 5.76 from balance
-DEBUG:root:Taking 5.76 from balance
-DEBUG:root:Taking 5.76 from balance
-DEBUG:root:Adding 5.76 to balance
-DEBUG:root:Adding 5.76 to balance
-DEBUG:root:Taking 5.76 from balance
-DEBUG:root:Taking 5.76 from balance
-DEBUG:root:Adding 5.76 to balance
-DEBUG:root:Taking 5.76 from balance
-DEBUG:root:Taking 5.76 from balance
-DEBUG:root:Creating account with balance -5.76
-DEBUG:root:Creating account with balance 5.76
 DEBUG:root:New transaction at 28/11/2014 from Tim L to Dan W
 DEBUG:root:Taking 8.76 from balance
 DEBUG:root:Adding 8.76 to balance
-DEBUG:root:Taking 8.76 from balance
-DEBUG:root:Taking 8.76 from balance
-DEBUG:root:Taking 8.76 from balance
-DEBUG:root:Adding 8.76 to balance
-DEBUG:root:Adding 8.76 to balance
-DEBUG:root:Taking 8.76 from balance
-DEBUG:root:Adding 8.76 to balance
-DEBUG:root:Taking 8.76 from balance
-DEBUG:root:Adding 8.76 to balance
-DEBUG:root:Taking 8.76 from balance
-DEBUG:root:Taking 8.76 from balance
-DEBUG:root:Taking 8.76 from balance
-DEBUG:root:Taking 8.76 from balance
-DEBUG:root:Taking 8.76 from balance
-DEBUG:root:Adding 8.76 to balance
-DEBUG:root:Adding 8.76 to balance
-DEBUG:root:Taking 8.76 from balance
-DEBUG:root:Adding 8.76 to balance
-DEBUG:root:Adding 8.76 to balance
-DEBUG:root:Taking 8.76 from balance
-DEBUG:root:Adding 8.76 to balance
-DEBUG:root:Adding 8.76 to balance
-DEBUG:root:Taking 8.76 from balance
-DEBUG:root:Taking 8.76 from balance
-DEBUG:root:Taking 8.76 from balance
-DEBUG:root:Taking 8.76 from balance
-DEBUG:root:Taking 8.76 from balance
-DEBUG:root:Adding 8.76 to balance
-DEBUG:root:Adding 8.76 to balance
-DEBUG:root:Adding 8.76 to balance
-DEBUG:root:Taking 8.76 from balance
-DEBUG:root:Adding 8.76 to balance
-DEBUG:root:Taking 8.76 from balance
-DEBUG:root:Adding 8.76 to balance
-DEBUG:root:Adding 8.76 to balance
-DEBUG:root:Adding 8.76 to balance
-DEBUG:root:Taking 8.76 from balance
-DEBUG:root:Adding 8.76 to balance
-DEBUG:root:Creating account with balance -8.76
-DEBUG:root:Creating account with balance 8.76
 DEBUG:root:New transaction at 02/12/2014 from Jon A to Sam N
 DEBUG:root:Taking 11.04 from balance
 DEBUG:root:Adding 11.04 to balance
-DEBUG:root:Adding 11.04 to balance
-DEBUG:root:Adding 11.04 to balance
-DEBUG:root:Adding 11.04 to balance
-DEBUG:root:Taking 11.04 from balance
-DEBUG:root:Adding 11.04 to balance
-DEBUG:root:Adding 11.04 to balance
-DEBUG:root:Taking 11.04 from balance
-DEBUG:root:Adding 11.04 to balance
-DEBUG:root:Taking 11.04 from balance
-DEBUG:root:Adding 11.04 to balance
-DEBUG:root:Adding 11.04 to balance
-DEBUG:root:Taking 11.04 from balance
-DEBUG:root:Adding 11.04 to balance
-DEBUG:root:Adding 11.04 to balance
-DEBUG:root:Taking 11.04 from balance
-DEBUG:root:Taking 11.04 from balance
-DEBUG:root:Adding 11.04 to balance
-DEBUG:root:Adding 11.04 to balance
-DEBUG:root:Taking 11.04 from balance
-DEBUG:root:Adding 11.04 to balance
-DEBUG:root:Taking 11.04 from balance
-DEBUG:root:Adding 11.04 to balance
-DEBUG:root:Taking 11.04 from balance
-DEBUG:root:Taking 11.04 from balance
-DEBUG:root:Adding 11.04 to balance
-DEBUG:root:Taking 11.04 from balance
-DEBUG:root:Adding 11.04 to balance
-DEBUG:root:Adding 11.04 to balance
-DEBUG:root:Taking 11.04 from balance
-DEBUG:root:Taking 11.04 from balance
-DEBUG:root:Taking 11.04 from balance
-DEBUG:root:Taking 11.04 from balance
-DEBUG:root:Taking 11.04 from balance
-DEBUG:root:Adding 11.04 to balance
-DEBUG:root:Taking 11.04 from balance
-DEBUG:root:Adding 11.04 to balance
-DEBUG:root:Taking 11.04 from balance
-DEBUG:root:Adding 11.04 to balance
-DEBUG:root:Adding 11.04 to balance
-DEBUG:root:Taking 11.04 from balance
-DEBUG:root:Creating account with balance -11.04
-DEBUG:root:Creating account with balance 11.04
 DEBUG:root:New transaction at 06/12/2014 from Gergana I to Rob S
 DEBUG:root:Adding 5.64 to balance
 DEBUG:root:Taking 5.64 from balance
-DEBUG:root:Taking 5.64 from balance
-DEBUG:root:Adding 5.64 to balance
-DEBUG:root:Taking 5.64 from balance
-DEBUG:root:Adding 5.64 to balance
-DEBUG:root:Taking 5.64 from balance
-DEBUG:root:Taking 5.64 from balance
-DEBUG:root:Adding 5.64 to balance
-DEBUG:root:Adding 5.64 to balance
-DEBUG:root:Adding 5.64 to balance
-DEBUG:root:Taking 5.64 from balance
-DEBUG:root:Adding 5.64 to balance
-DEBUG:root:Taking 5.64 from balance
-DEBUG:root:Adding 5.64 to balance
-DEBUG:root:Taking 5.64 from balance
-DEBUG:root:Taking 5.64 from balance
-DEBUG:root:Adding 5.64 to balance
-DEBUG:root:Taking 5.64 from balance
-DEBUG:root:Taking 5.64 from balance
-DEBUG:root:Adding 5.64 to balance
-DEBUG:root:Taking 5.64 from balance
-DEBUG:root:Taking 5.64 from balance
-DEBUG:root:Adding 5.64 to balance
-DEBUG:root:Taking 5.64 from balance
-DEBUG:root:Adding 5.64 to balance
-DEBUG:root:Taking 5.64 from balance
-DEBUG:root:Taking 5.64 from balance
-DEBUG:root:Taking 5.64 from balance
-DEBUG:root:Taking 5.64 from balance
-DEBUG:root:Adding 5.64 to balance
-DEBUG:root:Taking 5.64 from balance
-DEBUG:root:Taking 5.64 from balance
-DEBUG:root:Adding 5.64 to balance
-DEBUG:root:Taking 5.64 from balance
-DEBUG:root:Taking 5.64 from balance
-DEBUG:root:Adding 5.64 to balance
-DEBUG:root:Adding 5.64 to balance
-DEBUG:root:Creating account with balance -5.64
-DEBUG:root:Creating account with balance 5.64
 DEBUG:root:New transaction at 09/12/2014 from Jon A to Chris W
 DEBUG:root:Taking 2.26 from balance
 DEBUG:root:Adding 2.26 to balance
-DEBUG:root:Taking 2.26 from balance
-DEBUG:root:Taking 2.26 from balance
-DEBUG:root:Taking 2.26 from balance
-DEBUG:root:Taking 2.26 from balance
-DEBUG:root:Taking 2.26 from balance
-DEBUG:root:Adding 2.26 to balance
-DEBUG:root:Taking 2.26 from balance
-DEBUG:root:Adding 2.26 to balance
-DEBUG:root:Adding 2.26 to balance
-DEBUG:root:Adding 2.26 to balance
-DEBUG:root:Taking 2.26 from balance
-DEBUG:root:Taking 2.26 from balance
-DEBUG:root:Taking 2.26 from balance
-DEBUG:root:Adding 2.26 to balance
-DEBUG:root:Taking 2.26 from balance
-DEBUG:root:Adding 2.26 to balance
-DEBUG:root:Taking 2.26 from balance
-DEBUG:root:Adding 2.26 to balance
-DEBUG:root:Adding 2.26 to balance
-DEBUG:root:Taking 2.26 from balance
-DEBUG:root:Taking 2.26 from balance
-DEBUG:root:Taking 2.26 from balance
-DEBUG:root:Taking 2.26 from balance
-DEBUG:root:Taking 2.26 from balance
-DEBUG:root:Taking 2.26 from balance
-DEBUG:root:Adding 2.26 to balance
-DEBUG:root:Adding 2.26 to balance
-DEBUG:root:Taking 2.26 from balance
-DEBUG:root:Adding 2.26 to balance
-DEBUG:root:Taking 2.26 from balance
-DEBUG:root:Adding 2.26 to balance
-DEBUG:root:Adding 2.26 to balance
-DEBUG:root:Taking 2.26 from balance
-DEBUG:root:Creating account with balance -2.26
-DEBUG:root:Creating account with balance 2.26
 DEBUG:root:New transaction at 12/12/2014 from Dan W to Tim L
 DEBUG:root:Adding 4.5 to balance
 DEBUG:root:Taking 4.5 from balance
-DEBUG:root:Adding 4.5 to balance
-DEBUG:root:Adding 4.5 to balance
-DEBUG:root:Adding 4.5 to balance
-DEBUG:root:Taking 4.5 from balance
-DEBUG:root:Taking 4.5 from balance
-DEBUG:root:Adding 4.5 to balance
-DEBUG:root:Taking 4.5 from balance
-DEBUG:root:Adding 4.5 to balance
-DEBUG:root:Taking 4.5 from balance
-DEBUG:root:Adding 4.5 to balance
-DEBUG:root:Adding 4.5 to balance
-DEBUG:root:Adding 4.5 to balance
-DEBUG:root:Adding 4.5 to balance
-DEBUG:root:Adding 4.5 to balance
-DEBUG:root:Taking 4.5 from balance
-DEBUG:root:Taking 4.5 from balance
-DEBUG:root:Adding 4.5 to balance
-DEBUG:root:Taking 4.5 from balance
-DEBUG:root:Taking 4.5 from balance
-DEBUG:root:Adding 4.5 to balance
-DEBUG:root:Taking 4.5 from balance
-DEBUG:root:Taking 4.5 from balance
-DEBUG:root:Adding 4.5 to balance
-DEBUG:root:Adding 4.5 to balance
-DEBUG:root:Adding 4.5 to balance
-DEBUG:root:Adding 4.5 to balance
-DEBUG:root:Adding 4.5 to balance
-DEBUG:root:Taking 4.5 from balance
-DEBUG:root:Taking 4.5 from balance
-DEBUG:root:Taking 4.5 from balance
-DEBUG:root:Adding 4.5 to balance
-DEBUG:root:Taking 4.5 from balance
-DEBUG:root:Adding 4.5 to balance
-DEBUG:root:Taking 4.5 from balance
-DEBUG:root:Taking 4.5 from balance
-DEBUG:root:Taking 4.5 from balance
-DEBUG:root:Adding 4.5 to balance
-DEBUG:root:Taking 4.5 from balance
-DEBUG:root:Adding 4.5 to balance
-DEBUG:root:Taking 4.5 from balance
-DEBUG:root:Creating account with balance -4.5
-DEBUG:root:Creating account with balance 4.5
 DEBUG:root:New transaction at 14/12/2014 from Gergana I to Laura B
 DEBUG:root:Adding 4.26 to balance
 DEBUG:root:Taking 4.26 from balance
-DEBUG:root:Adding 4.26 to balance
-DEBUG:root:Taking 4.26 from balance
-DEBUG:root:Adding 4.26 to balance
-DEBUG:root:Taking 4.26 from balance
-DEBUG:root:Taking 4.26 from balance
-DEBUG:root:Adding 4.26 to balance
-DEBUG:root:Taking 4.26 from balance
-DEBUG:root:Adding 4.26 to balance
-DEBUG:root:Adding 4.26 to balance
-DEBUG:root:Taking 4.26 from balance
-DEBUG:root:Adding 4.26 to balance
-DEBUG:root:Taking 4.26 from balance
-DEBUG:root:Adding 4.26 to balance
-DEBUG:root:Adding 4.26 to balance
-DEBUG:root:Taking 4.26 from balance
-DEBUG:root:Taking 4.26 from balance
-DEBUG:root:Adding 4.26 to balance
-DEBUG:root:Taking 4.26 from balance
-DEBUG:root:Taking 4.26 from balance
-DEBUG:root:Adding 4.26 to balance
-DEBUG:root:Taking 4.26 from balance
-DEBUG:root:Taking 4.26 from balance
-DEBUG:root:Adding 4.26 to balance
-DEBUG:root:Taking 4.26 from balance
-DEBUG:root:Adding 4.26 to balance
-DEBUG:root:Taking 4.26 from balance
-DEBUG:root:Adding 4.26 to balance
-DEBUG:root:Taking 4.26 from balance
-DEBUG:root:Adding 4.26 to balance
-DEBUG:root:Taking 4.26 from balance
-DEBUG:root:Adding 4.26 to balance
-DEBUG:root:Taking 4.26 from balance
-DEBUG:root:Adding 4.26 to balance
-DEBUG:root:Taking 4.26 from balance
-DEBUG:root:Taking 4.26 from balance
-DEBUG:root:Adding 4.26 to balance
-DEBUG:root:Taking 4.26 from balance
-DEBUG:root:Taking 4.26 from balance
-DEBUG:root:Adding 4.26 to balance
-DEBUG:root:Adding 4.26 to balance
-DEBUG:root:Taking 4.26 from balance
-DEBUG:root:Creating account with balance -4.26
-DEBUG:root:Creating account with balance 4.26
 DEBUG:root:New transaction at 16/12/2014 from Todd to Tim L
 DEBUG:root:Adding 7.17 to balance
 DEBUG:root:Taking 7.17 from balance
-DEBUG:root:Taking 7.17 from balance
-DEBUG:root:Taking 7.17 from balance
-DEBUG:root:Adding 7.17 to balance
-DEBUG:root:Taking 7.17 from balance
-DEBUG:root:Taking 7.17 from balance
-DEBUG:root:Taking 7.17 from balance
-DEBUG:root:Adding 7.17 to balance
-DEBUG:root:Adding 7.17 to balance
-DEBUG:root:Taking 7.17 from balance
-DEBUG:root:Taking 7.17 from balance
-DEBUG:root:Taking 7.17 from balance
-DEBUG:root:Taking 7.17 from balance
-DEBUG:root:Adding 7.17 to balance
-DEBUG:root:Taking 7.17 from balance
-DEBUG:root:Adding 7.17 to balance
-DEBUG:root:Adding 7.17 to balance
-DEBUG:root:Taking 7.17 from balance
-DEBUG:root:Adding 7.17 to balance
-DEBUG:root:Taking 7.17 from balance
-DEBUG:root:Adding 7.17 to balance
-DEBUG:root:Taking 7.17 from balance
-DEBUG:root:Adding 7.17 to balance
-DEBUG:root:Adding 7.17 to balance
-DEBUG:root:Taking 7.17 from balance
-DEBUG:root:Adding 7.17 to balance
-DEBUG:root:Taking 7.17 from balance
-DEBUG:root:Adding 7.17 to balance
-DEBUG:root:Adding 7.17 to balance
-DEBUG:root:Adding 7.17 to balance
-DEBUG:root:Taking 7.17 from balance
-DEBUG:root:Adding 7.17 to balance
-DEBUG:root:Adding 7.17 to balance
-DEBUG:root:Adding 7.17 to balance
-DEBUG:root:Taking 7.17 from balance
-DEBUG:root:Adding 7.17 to balance
-DEBUG:root:Taking 7.17 from balance
-DEBUG:root:Adding 7.17 to balance
-DEBUG:root:Taking 7.17 from balance
-DEBUG:root:Adding 7.17 to balance
-DEBUG:root:Taking 7.17 from balance
-DEBUG:root:Adding 7.17 to balance
-DEBUG:root:Adding 7.17 to balance
-DEBUG:root:Creating account with balance -7.17
-DEBUG:root:Creating account with balance 7.17
 DEBUG:root:New transaction at 18/12/2014 from Chris W to Ben B
 DEBUG:root:Adding 11.17 to balance
-DEBUG:root:Adding 11.17 to balance
-DEBUG:root:Adding 11.17 to balance
 DEBUG:root:Taking 11.17 from balance
-DEBUG:root:Adding 11.17 to balance
-DEBUG:root:Adding 11.17 to balance
-DEBUG:root:Adding 11.17 to balance
-DEBUG:root:Adding 11.17 to balance
-DEBUG:root:Adding 11.17 to balance
-DEBUG:root:Adding 11.17 to balance
-DEBUG:root:Adding 11.17 to balance
-DEBUG:root:Taking 11.17 from balance
-DEBUG:root:Adding 11.17 to balance
-DEBUG:root:Adding 11.17 to balance
-DEBUG:root:Adding 11.17 to balance
-DEBUG:root:Adding 11.17 to balance
-DEBUG:root:Taking 11.17 from balance
-DEBUG:root:Adding 11.17 to balance
-DEBUG:root:Taking 11.17 from balance
-DEBUG:root:Taking 11.17 from balance
-DEBUG:root:Adding 11.17 to balance
-DEBUG:root:Taking 11.17 from balance
-DEBUG:root:Adding 11.17 to balance
-DEBUG:root:Taking 11.17 from balance
-DEBUG:root:Adding 11.17 to balance
-DEBUG:root:Taking 11.17 from balance
-DEBUG:root:Adding 11.17 to balance
-DEBUG:root:Adding 11.17 to balance
-DEBUG:root:Taking 11.17 from balance
-DEBUG:root:Adding 11.17 to balance
-DEBUG:root:Adding 11.17 to balance
-DEBUG:root:Adding 11.17 to balance
-DEBUG:root:Adding 11.17 to balance
-DEBUG:root:Adding 11.17 to balance
-DEBUG:root:Adding 11.17 to balance
-DEBUG:root:Taking 11.17 from balance
-DEBUG:root:Taking 11.17 from balance
-DEBUG:root:Adding 11.17 to balance
-DEBUG:root:Adding 11.17 to balance
-DEBUG:root:Taking 11.17 from balance
-DEBUG:root:Taking 11.17 from balance
-DEBUG:root:Taking 11.17 from balance
-DEBUG:root:Taking 11.17 from balance
-DEBUG:root:Creating account with balance -11.17
-DEBUG:root:Creating account with balance 11.17
 DEBUG:root:New transaction at 20/12/2014 from Rob S to Gergana I
 DEBUG:root:Taking 1.07 from balance
 DEBUG:root:Adding 1.07 to balance
-DEBUG:root:Adding 1.07 to balance
-DEBUG:root:Taking 1.07 from balance
-DEBUG:root:Adding 1.07 to balance
-DEBUG:root:Taking 1.07 from balance
-DEBUG:root:Adding 1.07 to balance
-DEBUG:root:Adding 1.07 to balance
-DEBUG:root:Taking 1.07 from balance
-DEBUG:root:Taking 1.07 from balance
-DEBUG:root:Taking 1.07 from balance
-DEBUG:root:Adding 1.07 to balance
-DEBUG:root:Taking 1.07 from balance
-DEBUG:root:Adding 1.07 to balance
-DEBUG:root:Taking 1.07 from balance
-DEBUG:root:Adding 1.07 to balance
-DEBUG:root:Adding 1.07 to balance
-DEBUG:root:Taking 1.07 from balance
-DEBUG:root:Adding 1.07 to balance
-DEBUG:root:Adding 1.07 to balance
-DEBUG:root:Taking 1.07 from balance
-DEBUG:root:Adding 1.07 to balance
-DEBUG:root:Adding 1.07 to balance
-DEBUG:root:Taking 1.07 from balance
-DEBUG:root:Adding 1.07 to balance
-DEBUG:root:Taking 1.07 from balance
-DEBUG:root:Adding 1.07 to balance
-DEBUG:root:Adding 1.07 to balance
-DEBUG:root:Adding 1.07 to balance
-DEBUG:root:Adding 1.07 to balance
-DEBUG:root:Taking 1.07 from balance
-DEBUG:root:Adding 1.07 to balance
-DEBUG:root:Adding 1.07 to balance
-DEBUG:root:Taking 1.07 from balance
-DEBUG:root:Adding 1.07 to balance
-DEBUG:root:Adding 1.07 to balance
-DEBUG:root:Taking 1.07 from balance
-DEBUG:root:Taking 1.07 from balance
-DEBUG:root:Adding 1.07 to balance
-DEBUG:root:Taking 1.07 from balance
-DEBUG:root:Adding 1.07 to balance
-DEBUG:root:Creating account with balance -1.07
-DEBUG:root:Creating account with balance 1.07
 DEBUG:root:New transaction at 21/12/2014 from Gergana I to Laura B
 DEBUG:root:Adding 6.86 to balance
 DEBUG:root:Taking 6.86 from balance
-DEBUG:root:Adding 6.86 to balance
-DEBUG:root:Taking 6.86 from balance
-DEBUG:root:Adding 6.86 to balance
-DEBUG:root:Taking 6.86 from balance
-DEBUG:root:Taking 6.86 from balance
-DEBUG:root:Adding 6.86 to balance
-DEBUG:root:Taking 6.86 from balance
-DEBUG:root:Adding 6.86 to balance
-DEBUG:root:Adding 6.86 to balance
-DEBUG:root:Taking 6.86 from balance
-DEBUG:root:Adding 6.86 to balance
-DEBUG:root:Taking 6.86 from balance
-DEBUG:root:Adding 6.86 to balance
-DEBUG:root:Adding 6.86 to balance
-DEBUG:root:Taking 6.86 from balance
-DEBUG:root:Taking 6.86 from balance
-DEBUG:root:Adding 6.86 to balance
-DEBUG:root:Taking 6.86 from balance
-DEBUG:root:Taking 6.86 from balance
-DEBUG:root:Adding 6.86 to balance
-DEBUG:root:Taking 6.86 from balance
-DEBUG:root:Taking 6.86 from balance
-DEBUG:root:Adding 6.86 to balance
-DEBUG:root:Taking 6.86 from balance
-DEBUG:root:Adding 6.86 to balance
-DEBUG:root:Taking 6.86 from balance
-DEBUG:root:Adding 6.86 to balance
-DEBUG:root:Taking 6.86 from balance
-DEBUG:root:Adding 6.86 to balance
-DEBUG:root:Taking 6.86 from balance
-DEBUG:root:Adding 6.86 to balance
-DEBUG:root:Taking 6.86 from balance
-DEBUG:root:Adding 6.86 to balance
-DEBUG:root:Taking 6.86 from balance
-DEBUG:root:Taking 6.86 from balance
-DEBUG:root:Adding 6.86 to balance
-DEBUG:root:Taking 6.86 from balance
-DEBUG:root:Taking 6.86 from balance
-DEBUG:root:Adding 6.86 to balance
-DEBUG:root:Adding 6.86 to balance
-DEBUG:root:Taking 6.86 from balance
-DEBUG:root:Taking 6.86 from balance
-DEBUG:root:Adding 6.86 to balance
-DEBUG:root:Taking 6.86 from balance
-DEBUG:root:Creating account with balance 6.86
 DEBUG:root:New transaction at 22/12/2014 from Dan W to Jon A
 DEBUG:root:Adding 3.66 to balance
-DEBUG:root:Adding 3.66 to balance
 DEBUG:root:Taking 3.66 from balance
-DEBUG:root:Adding 3.66 to balance
-DEBUG:root:Adding 3.66 to balance
-DEBUG:root:Taking 3.66 from balance
-DEBUG:root:Adding 3.66 to balance
-DEBUG:root:Taking 3.66 from balance
-DEBUG:root:Taking 3.66 from balance
-DEBUG:root:Adding 3.66 to balance
-DEBUG:root:Taking 3.66 from balance
-DEBUG:root:Adding 3.66 to balance
-DEBUG:root:Taking 3.66 from balance
-DEBUG:root:Taking 3.66 from balance
-DEBUG:root:Adding 3.66 to balance
-DEBUG:root:Taking 3.66 from balance
-DEBUG:root:Adding 3.66 to balance
-DEBUG:root:Taking 3.66 from balance
-DEBUG:root:Taking 3.66 from balance
-DEBUG:root:Adding 3.66 to balance
-DEBUG:root:Taking 3.66 from balance
-DEBUG:root:Adding 3.66 to balance
-DEBUG:root:Adding 3.66 to balance
-DEBUG:root:Adding 3.66 to balance
-DEBUG:root:Taking 3.66 from balance
-DEBUG:root:Taking 3.66 from balance
-DEBUG:root:Adding 3.66 to balance
-DEBUG:root:Adding 3.66 to balance
-DEBUG:root:Adding 3.66 to balance
-DEBUG:root:Taking 3.66 from balance
-DEBUG:root:Adding 3.66 to balance
-DEBUG:root:Taking 3.66 from balance
-DEBUG:root:Taking 3.66 from balance
-DEBUG:root:Taking 3.66 from balance
-DEBUG:root:Adding 3.66 to balance
-DEBUG:root:Taking 3.66 from balance
-DEBUG:root:Adding 3.66 to balance
-DEBUG:root:Taking 3.66 from balance
-DEBUG:root:Adding 3.66 to balance
-DEBUG:root:Taking 3.66 from balance
-DEBUG:root:Adding 3.66 to balance
-DEBUG:root:Adding 3.66 to balance
-DEBUG:root:Taking 3.66 from balance
-DEBUG:root:Creating account with balance -3.66
-DEBUG:root:Creating account with balance 3.66
 DEBUG:root:New transaction at 25/12/2014 from Todd to Rob S
 DEBUG:root:Adding 1.86 to balance
 DEBUG:root:Taking 1.86 from balance
-DEBUG:root:Taking 1.86 from balance
-DEBUG:root:Taking 1.86 from balance
-DEBUG:root:Adding 1.86 to balance
-DEBUG:root:Taking 1.86 from balance
-DEBUG:root:Adding 1.86 to balance
-DEBUG:root:Taking 1.86 from balance
-DEBUG:root:Taking 1.86 from balance
-DEBUG:root:Adding 1.86 to balance
-DEBUG:root:Taking 1.86 from balance
-DEBUG:root:Taking 1.86 from balance
-DEBUG:root:Adding 1.86 to balance
-DEBUG:root:Taking 1.86 from balance
-DEBUG:root:Taking 1.86 from balance
-DEBUG:root:Adding 1.86 to balance
-DEBUG:root:Adding 1.86 to balance
-DEBUG:root:Taking 1.86 from balance
-DEBUG:root:Taking 1.86 from balance
-DEBUG:root:Adding 1.86 to balance
-DEBUG:root:Taking 1.86 from balance
-DEBUG:root:Taking 1.86 from balance
-DEBUG:root:Taking 1.86 from balance
-DEBUG:root:Taking 1.86 from balance
-DEBUG:root:Adding 1.86 to balance
-DEBUG:root:Adding 1.86 to balance
-DEBUG:root:Adding 1.86 to balance
-DEBUG:root:Adding 1.86 to balance
-DEBUG:root:Taking 1.86 from balance
-DEBUG:root:Taking 1.86 from balance
-DEBUG:root:Adding 1.86 to balance
-DEBUG:root:Taking 1.86 from balance
-DEBUG:root:Adding 1.86 to balance
-DEBUG:root:Taking 1.86 from balance
-DEBUG:root:Adding 1.86 to balance
-DEBUG:root:Taking 1.86 from balance
-DEBUG:root:Adding 1.86 to balance
-DEBUG:root:Adding 1.86 to balance
-DEBUG:root:Taking 1.86 from balance
-DEBUG:root:Adding 1.86 to balance
-DEBUG:root:Creating account with balance -1.86
-DEBUG:root:Creating account with balance 1.86
 DEBUG:root:New transaction at 28/12/2014 from Ben B to Laura B
 DEBUG:root:Adding 1.44 to balance
 DEBUG:root:Taking 1.44 from balance
-DEBUG:root:Adding 1.44 to balance
-DEBUG:root:Taking 1.44 from balance
-DEBUG:root:Taking 1.44 from balance
-DEBUG:root:Adding 1.44 to balance
-DEBUG:root:Taking 1.44 from balance
-DEBUG:root:Adding 1.44 to balance
-DEBUG:root:Taking 1.44 from balance
-DEBUG:root:Taking 1.44 from balance
-DEBUG:root:Adding 1.44 to balance
-DEBUG:root:Taking 1.44 from balance
-DEBUG:root:Taking 1.44 from balance
-DEBUG:root:Adding 1.44 to balance
-DEBUG:root:Taking 1.44 from balance
-DEBUG:root:Adding 1.44 to balance
-DEBUG:root:Taking 1.44 from balance
-DEBUG:root:Adding 1.44 to balance
-DEBUG:root:Taking 1.44 from balance
-DEBUG:root:Taking 1.44 from balance
-DEBUG:root:Adding 1.44 to balance
-DEBUG:root:Taking 1.44 from balance
-DEBUG:root:Taking 1.44 from balance
-DEBUG:root:Taking 1.44 from balance
-DEBUG:root:Adding 1.44 to balance
-DEBUG:root:Taking 1.44 from balance
-DEBUG:root:Adding 1.44 to balance
-DEBUG:root:Adding 1.44 to balance
-DEBUG:root:Taking 1.44 from balance
-DEBUG:root:Adding 1.44 to balance
-DEBUG:root:Taking 1.44 from balance
-DEBUG:root:Taking 1.44 from balance
-DEBUG:root:Adding 1.44 to balance
-DEBUG:root:Adding 1.44 to balance
-DEBUG:root:Taking 1.44 from balance
-DEBUG:root:Adding 1.44 to balance
-DEBUG:root:Taking 1.44 from balance
-DEBUG:root:Adding 1.44 to balance
-DEBUG:root:Taking 1.44 from balance
-DEBUG:root:Taking 1.44 from balance
-DEBUG:root:Taking 1.44 from balance
-DEBUG:root:Taking 1.44 from balance
-DEBUG:root:Adding 1.44 to balance
-DEBUG:root:Taking 1.44 from balance
-DEBUG:root:Taking 1.44 from balance
-DEBUG:root:Adding 1.44 to balance
-DEBUG:root:Taking 1.44 from balance
-DEBUG:root:Adding 1.44 to balance
-DEBUG:root:Adding 1.44 to balance
-DEBUG:root:Taking 1.44 from balance
-DEBUG:root:Adding 1.44 to balance
-DEBUG:root:Creating account with balance -1.44
-DEBUG:root:Creating account with balance 1.44
 DEBUG:root:New transaction at 29/12/2014 from Ben B to Sam N
 DEBUG:root:Taking 5.26 from balance
 DEBUG:root:Adding 5.26 to balance
-DEBUG:root:Adding 5.26 to balance
-DEBUG:root:Adding 5.26 to balance
-DEBUG:root:Taking 5.26 from balance
-DEBUG:root:Adding 5.26 to balance
-DEBUG:root:Taking 5.26 from balance
-DEBUG:root:Adding 5.26 to balance
-DEBUG:root:Adding 5.26 to balance
-DEBUG:root:Taking 5.26 from balance
-DEBUG:root:Adding 5.26 to balance
-DEBUG:root:Taking 5.26 from balance
-DEBUG:root:Adding 5.26 to balance
-DEBUG:root:Taking 5.26 from balance
-DEBUG:root:Adding 5.26 to balance
-DEBUG:root:Taking 5.26 from balance
-DEBUG:root:Adding 5.26 to balance
-DEBUG:root:Taking 5.26 from balance
-DEBUG:root:Adding 5.26 to balance
-DEBUG:root:Taking 5.26 from balance
-DEBUG:root:Taking 5.26 from balance
-DEBUG:root:Taking 5.26 from balance
-DEBUG:root:Adding 5.26 to balance
-DEBUG:root:Taking 5.26 from balance
-DEBUG:root:Taking 5.26 from balance
-DEBUG:root:Adding 5.26 to balance
-DEBUG:root:Taking 5.26 from balance
-DEBUG:root:Taking 5.26 from balance
-DEBUG:root:Adding 5.26 to balance
-DEBUG:root:Adding 5.26 to balance
-DEBUG:root:Taking 5.26 from balance
-DEBUG:root:Adding 5.26 to balance
-DEBUG:root:Taking 5.26 from balance
-DEBUG:root:Taking 5.26 from balance
-DEBUG:root:Adding 5.26 to balance
-DEBUG:root:Taking 5.26 from balance
-DEBUG:root:Taking 5.26 from balance
-DEBUG:root:Adding 5.26 to balance
-DEBUG:root:Taking 5.26 from balance
-DEBUG:root:Taking 5.26 from balance
-DEBUG:root:Taking 5.26 from balance
-DEBUG:root:Taking 5.26 from balance
-DEBUG:root:Taking 5.26 from balance
-DEBUG:root:Adding 5.26 to balance
-DEBUG:root:Taking 5.26 from balance
-DEBUG:root:Taking 5.26 from balance
-DEBUG:root:Adding 5.26 to balance
-DEBUG:root:Taking 5.26 from balance
-DEBUG:root:Adding 5.26 to balance
-DEBUG:root:Adding 5.26 to balance
-DEBUG:root:Adding 5.26 to balance
-DEBUG:root:Taking 5.26 from balance
-DEBUG:root:Taking 5.26 from balance
-DEBUG:root:Creating account with balance -5.26
-DEBUG:root:Creating account with balance 5.26
-DEBUG:root:Listing all accounts
-DEBUG:root:Listing transactions from Jon A
-DEBUG:root:Amount is 7.8
-DEBUG:root:Amount is 1.65
-DEBUG:root:Amount is 8.75
-DEBUG:root:Amount is 8.49
-DEBUG:root:Amount is 8.91
-DEBUG:root:Amount is 10.51
-DEBUG:root:Amount is 9.04
-DEBUG:root:Amount is 2.67
-DEBUG:root:Amount is 4.37
-DEBUG:root:Amount is 11.75
-DEBUG:root:Amount is 5.31
-DEBUG:root:Amount is 7.22
-DEBUG:root:Amount is 8.13
-DEBUG:root:Amount is 3.11
-DEBUG:root:Amount is 3.71
-DEBUG:root:Amount is 5.61
-DEBUG:root:Amount is 9.26
-DEBUG:root:Amount is 2.37
-DEBUG:root:Amount is 0.73
-DEBUG:root:Amount is 2.61
-DEBUG:root:Amount is 11.04
-DEBUG:root:Amount is 2.26
-DEBUG:root:Amount is 3.66
 DEBUG:root:Listing all accounts

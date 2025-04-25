@@ -14,8 +14,6 @@ def update_accounts(file, accounts):
             logging.debug('New transaction at %s from %s to %s', row['Date'], row['From'], row['To'])
             payer, payee = False, False
             for account in accounts:
-                payer = False
-                payee = False
                 if account.name == row['From'] and payer == False:
                     logging.debug('Taking %s from balance', row['Amount'])
                     account.balance -= float(row['Amount'])
