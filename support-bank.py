@@ -96,6 +96,7 @@ def update_accounts(pending_transactions, processed_transactions, accounts):
         processed_transactions.append(trans)
 
     pending_transactions.clear()
+    processed_transactions.sort(key=lambda x: x.date)
     logging.info('Processed transactions.')
     print('Accounts updated with the given transactions.')
 
@@ -114,13 +115,11 @@ def list_transactions(transactions, accounts, name):
     logging.info('Listing transactions from given user')
     for account in accounts:
         if name == account.name.lower():
-            for idx, trans in enumerate(transactions):
+            for trans in transactions:
                 if trans.from_acc == account.name:
-                    print(
-                        f'Date: {trans.date}, To: {trans.to_acc}, Amount: £-{trans.amount:0.2f}, {trans.narrative}')
+                    print(f'Date: {trans.date.strftime('%a %d %b %Y')}, To: {trans.to_acc}, Amount: -£{trans.amount:0.2f}, {trans.narrative}')
                 elif trans.to_acc == account.name:
-                    print(
-                        f'Date: {trans.date}, From: {trans.from_acc}, Amount: £{trans.amount:0.2f}, {trans.narrative}')
+                    print(f'Date: {trans.date.strftime('%a %d %b %Y')}, From: {trans.from_acc}, Amount: +£{trans.amount:0.2f}, {trans.narrative}')
             break
     else:
         print('No account by that name. Check accounts with [List All].')
@@ -169,9 +168,9 @@ def open_csv(file, transactions, errors):
                 logging.info('Cancelled opening CSV file.')
                 return
             elif command == 'skip':
-                errors.append(Transaction(date.strftime('%a %d %b %Y'), row['From'], row['To'], amount, row['Narrative']))
+                errors.append(Transaction(date, row['From'], row['To'], amount, row['Narrative']))
             else:
-                transactions.append(Transaction(date.strftime('%a %d %b %Y'), row['From'], row['To'], amount, row['Narrative']))
+                transactions.append(Transaction(date, row['From'], row['To'], amount, row['Narrative']))
 
     logging.info('Successfully opened CSV file.')
 
@@ -198,9 +197,9 @@ def open_json(file, transactions, errors):
                 logging.info('Cancelled opening JSON file.')
                 return
             elif command == 'skip':
-                errors.append(Transaction(date.strftime('%a %d %b %Y'), row['FromAccount'], row['ToAccount'], amount, row['Narrative']))
+                errors.append(Transaction(date, row['FromAccount'], row['ToAccount'], amount, row['Narrative']))
             else:
-                transactions.append(Transaction(date.strftime('%a %d %b %Y'), row['FromAccount'], row['ToAccount'], amount, row['Narrative']))
+                transactions.append(Transaction(date, row['FromAccount'], row['ToAccount'], amount, row['Narrative']))
 
         logging.info('Successfully opened JSON file.')
 
@@ -227,7 +226,7 @@ def list_errors(errors):
         print('No errors found.')
     else:
         for trans in errors:
-            print(f'Date: {trans.date}, From: {trans.from_acc}, To: {trans.to_acc}, Amount: £{trans.amount}, {trans.narrative}')
+            print(f'Date: {trans.date.strftime('%a %d %b %Y')}, From: {trans.from_acc}, To: {trans.to_acc}, Amount: £{trans.amount}, {trans.narrative}')
 
 def print_filenames(dir_files):
     print('Available files:')
@@ -241,5 +240,6 @@ def clear_files(dir_files):
     dir_files.remove('pyproject.toml')
     dir_files.remove('poetry.lock')
     dir_files.remove('support-bank.py')
+    dir_files.remove('.gitignore')
 
 main()
