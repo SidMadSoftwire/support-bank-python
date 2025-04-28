@@ -1,5 +1,6 @@
 import csv
 import json
+import xml.etree.ElementTree as ET
 import os
 import logging
 from datetime import datetime
@@ -142,10 +143,14 @@ def open_file(user_file_no, dir_files, transactions, errors):
     elif dir_files[file_no][-4:] == 'json':
         open_json(dir_files[file_no], transactions, errors)
         return True
+    elif dir_files[file_no][-3:] == 'xml':
+        open_xml(dir_files[file_no], transactions, errors)
+        return True
     else:
         print("Only CSV, JSON files are supported.")
         return False
 
+# Read csv and handle user input errors
 def open_csv(file, transactions, errors):
     with open(file, newline='') as csvfile:
         reader = csv.DictReader(csvfile)
@@ -174,6 +179,7 @@ def open_csv(file, transactions, errors):
 
     logging.info('Successfully opened CSV file.')
 
+# Read json and handle user input errors
 def open_json(file, transactions, errors):
     with open(file, 'r') as jsonfile:
         data = json.load(jsonfile)
@@ -203,7 +209,45 @@ def open_json(file, transactions, errors):
 
         logging.info('Successfully opened JSON file.')
 
+# Read xml and handle user input errors
+def open_xml(file, transactions, errors):
+    tree = ET.parse(file)
+    root = tree.getroot()
 
+    year = file[-8:-4]
+    start = datetime(int(year),1, 1).toordinal() - datetime(1900, 1, 1).toordinal() + 2
+    end = datetime(int(year),12, 31).toordinal() - datetime(1900, 1, 1).toordinal() + 2
+
+    for transaction in root:
+        command = ''
+        try:
+            if start <= int(transaction.get('Date')) <= end:
+                date = datetime.fromordinal(datetime(1900, 1, 1).toordinal() + int(transaction.get('Date')) - 2)
+            else:
+                logging.error(f'Date outside bounds for given year')
+                command = user_error_prompt('Date outside bounds for given year')
+        except ValueError:
+            logging.error(f'Date not an integer: {transaction.get("Date")}')
+            command = user_error_prompt('Date not an integer')
+        try:
+            amount = float(transaction.find('Value').text)
+        except ValueError:
+            logging.error(f'Invalid amount format: {transaction.find('Value').text}')
+            command = user_error_prompt('amount is not numeric')
+
+        if command == 'cancel':
+            transactions.clear()
+            errors.clear()
+            logging.info('Cancelled opening JSON file.')
+            return
+        elif command == 'skip':
+            errors.append(Transaction(date, transaction.find('Parties').find('From').text, transaction.find('Parties').find('To').text, amount, transaction.find('Description').text))
+        else:
+            transactions.append(Transaction(date, transaction.find('Parties').find('From').text, transaction.find('Parties').find('To').text, amount, transaction.find('Description').text))
+
+        logging.info('Successfully opened JSON file.')
+
+# Get user choice for how to handle an error in a file
 def user_error_prompt(idx, error):
     print(f'The transaction at line {idx} includes the following: {error}')
     print('Would you like to [skip] this line and continue reading the file?')
@@ -228,11 +272,13 @@ def list_errors(errors):
         for trans in errors:
             print(f'Date: {trans.date.strftime('%a %d %b %Y')}, From: {trans.from_acc}, To: {trans.to_acc}, Amount: £{trans.amount}, {trans.narrative}')
 
+# Print names of non-program files in directory
 def print_filenames(dir_files):
     print('Available files:')
     for idx, file in enumerate(dir_files):
         print(f'{idx + 1} - {file}')
 
+# Remove program files rom list of files in directory
 def clear_files(dir_files):
     dir_files.remove('SupportBank.log')
     dir_files.remove('.git')
